@@ -3,13 +3,13 @@
 |사이트|문제|url|
 |---|---|---|
 |백준|보물|https://www.acmicpc.net/problem/1026|
-|DFS와 BFS|https://www.acmicpc.net/problem/1260|
-|폴리오미노|https://www.acmicpc.net/problem/1343|
-|짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
-|트리 순회|https://www.acmicpc.net/problem/1991|
-|N번째 큰 수|https://www.acmicpc.net/problem/2075|
-|전구와 스위치|https://www.acmicpc.net/problem/2138|
-|벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
+||DFS와 BFS|https://www.acmicpc.net/problem/1260|
+||폴리오미노|https://www.acmicpc.net/problem/1343|
+||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
+||트리 순회|https://www.acmicpc.net/problem/1991|
+||N번째 큰 수|https://www.acmicpc.net/problem/2075|
+||전구와 스위치|https://www.acmicpc.net/problem/2138|
+||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
