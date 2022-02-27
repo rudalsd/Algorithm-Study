@@ -1,8 +1,8 @@
 # Algorithm-Study
 
-|문제|url|
+|사이트|문제|url|
 |---|---|
-|보물|https://www.acmicpc.net/problem/1026|
+|백준|보물|https://www.acmicpc.net/problem/1026|
 |DFS와 BFS|https://www.acmicpc.net/problem/1260|
 |폴리오미노|https://www.acmicpc.net/problem/1343|
 |짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
@@ -19,8 +19,7 @@
 |퇴사|https://www.acmicpc.net/problem/14501|
 |연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 |로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
-|---|---|
-|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
+|프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
 |카펫|https://programmers.co.kr/learn/courses/30/lessons/42842|
 |네트워크|https://programmers.co.kr/learn/courses/30/lessons/43162|
 |단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163|
