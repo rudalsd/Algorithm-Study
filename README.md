@@ -5,6 +5,7 @@
 |백준|보물|https://www.acmicpc.net/problem/1026|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
+||가운데를 말해요|https://www.acmicpc.net/problem/1655|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
