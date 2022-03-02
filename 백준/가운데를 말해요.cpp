@@ -74,6 +74,6 @@ int main()
 				}
 			}
 		}
-		printf("%d\n", mid); 
+		printf("%d\n", mid);
 	}
 }
