@@ -76,6 +76,7 @@ int main()
 						q.push(next);
 					}
 				}
+
 				else {
 					if ((map[yy][xx] == 'D' || map[yy][xx] == '.') && visited[yy][xx] == 0) {
 						visited[yy][xx] = 1;
