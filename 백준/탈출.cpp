@@ -8,6 +8,7 @@ public:
 	int y;
 	int x;
 	int cnt;
+	int water = 0;
 	pos(int a, int b, int c)
 	{
 		y = a;
@@ -21,7 +22,6 @@ int R, C;
 
 int main()
 {
-	int visitedW[50][50] = { 0 };
 	int visited[50][50] = { 0 };
 	queue<pos> q;
 	cin >> R >> C;
@@ -36,7 +36,7 @@ int main()
 			if (map[i][j] == '*')
 			{
 				pos start(i, j, 0);
-				visitedW[i][j] = 1;
+				start.water = 1;
 				map[i][j] = '*';
 				q.push(start);
 			}
@@ -47,36 +47,8 @@ int main()
 		}
 	}
 
-	while (!q.empty())
-	{
-		int cy = q.front().y;
-		int cx = q.front().x;
-		int cnt = q.front().cnt;
-		q.pop();
-
-		for (int i = 0; i < 4; i++) {
-			int yy = cy + dy[i];
-			int xx = cx + dx[i];
-			if (yy >= 0 && yy < R && xx >= 0 && xx < C) {
-				if (map[yy][xx] == '.' && visitedW[yy][xx] == 0) {
-					visitedW[yy][xx] = visitedW[cy][cx] + 1;
-					map[yy][xx] = '*';
-					pos next(yy, xx, cnt + 1);
-					q.push(next);
-				}
-			}
-		}
-	}
-
-	for (int i = 0; i < R; i++)
-		for (int j = 0; j < C; j++) {
-			if (map[i][j] == 'S') {
-				y1 = i;
-				x1 = j;
-			}
-		}
-
 	pos start(y1, x1, 0);
+	visited[y1][x1] = 1;
 	q.push(start);
 
 	while (!q.empty())
@@ -84,6 +56,7 @@ int main()
 		int cy = q.front().y;
 		int cx = q.front().x;
 		int cnt = q.front().cnt;
+		int water = q.front().water;
 		q.pop();
 
 		if (map[cy][cx] == 'D') {
@@ -95,10 +68,20 @@ int main()
 			int yy = cy + dy[i];
 			int xx = cx + dx[i];
 			if (yy >= 0 && yy < R && xx >= 0 && xx < C) {
-				if ((visitedW[yy][xx] > cnt + 2 || map[yy][xx] == 'D' || map[yy][xx] == '.') && visited[yy][xx] == 0 && map[yy][xx] != 'X') {
-					visited[yy][xx] = 1;
-					pos next(yy, xx, cnt + 1);
-					q.push(next);
+				if (water == 1) {
+					if (map[yy][xx] == '.') {
+						map[yy][xx] = '*';
+						pos next(yy, xx, 0);
+						next.water = 1;
+						q.push(next);
+					}
+				}
+				else {
+					if ((map[yy][xx] == 'D' || map[yy][xx] == '.') && visited[yy][xx] == 0) {
+						visited[yy][xx] = 1;
+						pos next(yy, xx, cnt + 1);
+						q.push(next);
+					}
 				}
 			}
 		}
