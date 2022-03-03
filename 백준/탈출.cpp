@@ -8,17 +8,21 @@ public:
 	int y;
 	int x;
 	int cnt;
-	int water = 0;
-	pos(int a, int b, int c)
+	int water;
+	pos(int a, int b, int c, int d)
 	{
 		y = a;
 		x = b;
 		cnt = c;
+		water = d;
 	}
 };
 
 char map[60][60];
 int R, C;
+
+int dy[4] = { 0,0,-1,1 };
+int dx[4] = { -1,1,0,0 };
 
 int main()
 {
@@ -26,17 +30,15 @@ int main()
 	queue<pos> q;
 	cin >> R >> C;
 	int y1 = 0, x1 = 0;
-	int y2 = 0, x2 = 0;
-	int dy[4] = { 0,0,-1,1 };
-	int dx[4] = { -1,1,0,0 };
+
+	pos start(0,0,0,0);
 
 	for (int i = 0; i < R; i++) {
 		for (int j = 0; j < C; j++) {
 			cin >> map[i][j];
 			if (map[i][j] == '*')
 			{
-				pos start(i, j, 0);
-				start.water = 1;
+				start = { i,j,0,1 };
 				map[i][j] = '*';
 				q.push(start);
 			}
@@ -47,7 +49,7 @@ int main()
 		}
 	}
 
-	pos start(y1, x1, 0);
+	start = { y1,x1,0,0 };
 	visited[y1][x1] = 1;
 	q.push(start);
 
@@ -71,22 +73,19 @@ int main()
 				if (water == 1) {
 					if (map[yy][xx] == '.') {
 						map[yy][xx] = '*';
-						pos next(yy, xx, 0);
-						next.water = 1;
+						pos next(yy, xx, 0,1);
 						q.push(next);
 					}
 				}
-
-				else {
+				else{
 					if ((map[yy][xx] == 'D' || map[yy][xx] == '.') && visited[yy][xx] == 0) {
 						visited[yy][xx] = 1;
-						pos next(yy, xx, cnt + 1);
+						pos next(yy, xx, cnt + 1,0);
 						q.push(next);
 					}
 				}
 			}
 		}
 	}
-
 	cout << "KAKTUS";
 }
