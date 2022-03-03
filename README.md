@@ -6,15 +6,18 @@
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
+||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
+||로프|https://www.acmicpc.net/problem/2217|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
+||탈출|https://www.acmicpc.net/problem/3055|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
 ||퇴사|https://www.acmicpc.net/problem/14501|
