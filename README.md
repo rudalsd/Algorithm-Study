@@ -29,3 +29,5 @@
 ||단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163|
 ||여행경로|https://programmers.co.kr/learn/courses/30/lessons/43164|
 |SWEA|보물상자 비밀번호|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo|
+||벽돌 깨기|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo|
+||줄기세포배양|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo|
