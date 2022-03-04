@@ -145,6 +145,6 @@ int main()
 			}
 		}
 
-		cout << "#" << t << " " << sum << endl;
+		cout << "#" << t << " " << sum << endl; 
 	}
 }
