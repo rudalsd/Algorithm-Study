@@ -9,6 +9,7 @@
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
+||수들의 합2|https://www.acmicpc.net/problem/2003|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
@@ -23,11 +24,15 @@
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
+||좀비 바이러스|https://www.acmicpc.net/problem/24513|
+||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
 ||카펫|https://programmers.co.kr/learn/courses/30/lessons/42842|
 ||네트워크|https://programmers.co.kr/learn/courses/30/lessons/43162|
 ||단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163|
 ||여행경로|https://programmers.co.kr/learn/courses/30/lessons/43164|
+||||
 |SWEA|보물상자 비밀번호|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo|
 ||벽돌 깨기|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo|
 ||줄기세포배양|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo|
+||원자 소멸 시뮬레이션|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo|
