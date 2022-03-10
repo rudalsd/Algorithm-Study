@@ -24,6 +24,7 @@
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
+||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
 ||퇴사|https://www.acmicpc.net/problem/14501|
