@@ -7,7 +7,7 @@
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
-||1로 만들기|https://www.acmicpc.net/problem/1445|
+||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
