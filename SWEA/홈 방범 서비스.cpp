@@ -7,6 +7,7 @@ int N, M;
 int arr[20][20];
 int dy[4] = { -1,1,0,0 };
 int dx[4] = { 0,0,-1,1 };
+int K;
 
 struct pos {
 	int y;
@@ -17,7 +18,7 @@ struct pos {
 int Cnt(int y, int x)
 {
 	int max = 0;
-	for (int n = N + 1; n >= 1; n--) {
+	for (int n = K; n >= 1; n--) {
 		queue<pos> q;
 		q.push({ y,x,1 });
 		int cnt = 0;
@@ -65,14 +66,27 @@ int main()
 	for (int t = 1; t <= T; t++) {
 		cin >> N >> M;
 
+		int cnt = 0;
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				cin >> arr[i][j];
+				if (arr[i][j] == 1) {
+					cnt++;
+				}
 			}
 		}
+
+		for (int i = N+1; i >= 1; i--)
+		{
+			if (cnt * M >= (i * i) + (i - 1) * (i - 1)) {
+				K = i;
+				break;
+			}
+		}
+
 		int max = 0;
-		for (int i = 0; i <= N - N / 5; i++) {
-			for (int j = 0; j <= N - N / 5; j++) {
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < N; j++) {
 				int cnt = Cnt(i, j);
 				if (max < cnt) {
 					max = cnt;
