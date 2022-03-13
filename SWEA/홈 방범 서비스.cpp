@@ -15,42 +15,40 @@ struct pos {
 	int cnt;
 };
 
-int Cnt(int y, int x)
+int Cnt(int y, int x, int n)
 {
 	int max = 0;
-	for (int n = K; n >= 1; n--) {
-		queue<pos> q;
-		q.push({ y,x,1 });
-		int cnt = 0;
-		int visited[20][20] = { 0 };
-		visited[y][x] = 1;
-		int price = n * n + (n - 1) * (n - 1);
-		if (arr[y][x] == 1)cnt++;
-		while (!q.empty())
-		{
-			int curY = q.front().y;
-			int curX = q.front().x;
-			int curCnt = q.front().cnt;
-			q.pop();
+	queue<pos> q;
+	q.push({ y,x,1 });
+	int cnt = 0;
+	int visited[20][20] = { 0 };
+	visited[y][x] = 1;
+	int price = n * n + (n - 1) * (n - 1);
+	if (arr[y][x] == 1)cnt++;
+	while (!q.empty())
+	{
+		int curY = q.front().y;
+		int curX = q.front().x;
+		int curCnt = q.front().cnt;
+		q.pop();
 
-			if (curCnt == n) {
-				if (cnt * M - price >= 0) {
-					return cnt;
-				}
-				break;
+		if (curCnt == n) {
+			if (cnt * M - price >= 0) {
+				return cnt;
 			}
+			break;
+		}
 
-			for (int i = 0; i < 4; i++) {
-				int yy = curY + dy[i];
-				int xx = curX + dx[i];
-				if (yy >= 0 && yy < N && xx >= 0 && xx < N) {
-					if (visited[yy][xx] != 1) {
-						visited[yy][xx] = 1;
-						if (arr[yy][xx] == 1) {
-							cnt++;
-						}
-						q.push({ yy,xx,curCnt + 1 });
+		for (int i = 0; i < 4; i++) {
+			int yy = curY + dy[i];
+			int xx = curX + dx[i];
+			if (yy >= 0 && yy < N && xx >= 0 && xx < N) {
+				if (visited[yy][xx] != 1) {
+					visited[yy][xx] = 1;
+					if (arr[yy][xx] == 1) {
+						cnt++;
 					}
+					q.push({ yy,xx,curCnt + 1 });
 				}
 			}
 		}
@@ -85,12 +83,17 @@ int main()
 		}
 
 		int max = 0;
-		for (int i = 0; i < N; i++) {
-			for (int j = 0; j < N; j++) {
-				int cnt = Cnt(i, j);
-				if (max < cnt) {
-					max = cnt;
+		for (int k = K; k >= 1; k--) {
+			for (int i = 0; i < N; i++) {
+				for (int j = 0; j < N; j++) {
+					int cnt = Cnt(i, j, k);
+					if (max < cnt) {
+						max = cnt;
+					}
 				}
+			}
+			if (max != 0) {
+				break;
 			}
 		}
 
