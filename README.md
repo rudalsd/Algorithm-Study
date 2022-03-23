@@ -14,6 +14,7 @@
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
+||소수의 곱|https://www.acmicpc.net/problem/2014|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
@@ -34,6 +35,7 @@
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
+||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
