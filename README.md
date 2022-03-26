@@ -29,12 +29,15 @@
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
+||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
+||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
+||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
