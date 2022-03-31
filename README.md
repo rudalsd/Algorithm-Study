@@ -12,6 +12,7 @@
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
+||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
@@ -22,6 +23,7 @@
 ||로프|https://www.acmicpc.net/problem/2217|
 ||성곽|https://www.acmicpc.net/problem/2234|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
+||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
