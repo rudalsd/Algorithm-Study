@@ -1,6 +1,6 @@
 #include<iostream>
 #include<queue>
-#include<cstring>
+#include<cstring> 
 
 using namespace std;
 
@@ -9,14 +9,14 @@ struct pos {
 	int x;
 };
 
-int arr[300][300];										//ºù»êÀ» ³ªÅ¸³»´Â ¹è¿­
-int temp[300][300];										//ÀÌÀüÀÇ ºù»êÀÇ »óÅÂ¸¦ ÀúÀåÇÏ´Â ¹è¿­
+int arr[300][300];										//ë¹™ì‚°ì„ ë‚˜íƒ€ë‚´ëŠ” ë°°ì—´
+int temp[300][300];										//ì´ì „ì˜ ë¹™ì‚°ì˜ ìƒíƒœë¥¼ ì €ì¥í•˜ëŠ” ë°°ì—´
 int visited[300][300];
 int N, M;
-int dy[4] = { -1,1,0,0 };								//¹æÇâ¹è¿­
+int dy[4] = { -1,1,0,0 };								//ë°©í–¥ë°°ì—´
 int dx[4] = { 0,0,-1,1 };
 
-void bfs(int y, int x)									//bfs¸¦ ÅëÇØ ÀÌ¾îÁø ºù»êÀ» -1·Î °»½Å
+void bfs(int y, int x)									//bfsë¥¼ í†µí•´ ì´ì–´ì§„ ë¹™ì‚°ì„ -1ë¡œ ê°±ì‹ 
 {
 	memset(visited, 0, sizeof(visited));
 	queue<pos> q;
@@ -48,17 +48,17 @@ int main()
 {
 	cin >> N >> M;
 
-	for (int i = 0; i < N; i++) {							//°ª ÀÔ·Â
+	for (int i = 0; i < N; i++) {							//ê°’ ì…ë ¥
 		for (int j = 0; j < M; j++) {
 			cin >> arr[i][j];
 		}
 	}
 
-	int year = 0;											//ÇŞ¼ö ÃÊ±âÈ­
+	int year = 0;											//í–‡ìˆ˜ ì´ˆê¸°í™”
 
 	while (1)
 	{
-		for (int i = 0; i < N; i++) {						//temp¹è¿­¿¡ ÀÌÀüÀÇ ºù»ê »óÅÂ ÀúÀå
+		for (int i = 0; i < N; i++) {						//tempë°°ì—´ì— ì´ì „ì˜ ë¹™ì‚° ìƒíƒœ ì €ì¥
 			for (int j = 0; j < M; j++) {
 				temp[i][j] = arr[i][j];
 			}
@@ -68,23 +68,23 @@ int main()
 
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < M; j++) {
-				if (temp[i][j] > 0) {						//°ªÀÌ 0º¸´Ù Å¬ ¶§ bfs µ¹¸®±â
+				if (temp[i][j] > 0) {						//ê°’ì´ 0ë³´ë‹¤ í´ ë•Œ bfs ëŒë¦¬ê¸°
 					bfs(i, j);
 					cnt++;
 				}
 			}
 		}
 
-		if (cnt == 0) {										//ºù»êÀÌ ÇÑ¹ø¿¡ ³ì¾Æ³»·ÈÀ» ¶§
+		if (cnt == 0) {										//ë¹™ì‚°ì´ í•œë²ˆì— ë…¹ì•„ë‚´ë ¸ì„ ë•Œ
 			cout << 0;
 			return 0;
 		}
-		else if (cnt > 1) {									//ºù»êÀÌ 2Á¶°¢ ÀÌ»óÀ¸·Î ³ª´©¾îÁ³À» ¶§
+		else if (cnt > 1) {									//ë¹™ì‚°ì´ 2ì¡°ê° ì´ìƒìœ¼ë¡œ ë‚˜ëˆ„ì–´ì¡Œì„ ë•Œ
 			cout << year;
 			return 0;
 		}
 
-		year++;												//ÇŞ¼ö+1
+		year++;												//í–‡ìˆ˜+1
 
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < M; j++) {
@@ -92,12 +92,12 @@ int main()
 					for (int k = 0; k < 4; k++) {
 						int yy = i + dy[k];
 						int xx = j + dx[k];
-						if (temp[yy][xx] == 0) {			//¹Ù´å¹°¿¡ ´ê¾Æ ÀÖ´Â ¸¸Å­ arr¹è¿­ °ª -1
+						if (temp[yy][xx] == 0) {			//ë°”ë‹·ë¬¼ì— ë‹¿ì•„ ìˆëŠ” ë§Œí¼ arrë°°ì—´ ê°’ -1
 							arr[i][j] -= 1;
 						}
 					}
 				}
-				if (arr[i][j] < 0) {						//arr¹è¿­ÀÇ °ªÀÌ 0º¸´Ù ÀÛÀ¸¸é 0À¸·Î °»½Å
+				if (arr[i][j] < 0) {						//arrë°°ì—´ì˜ ê°’ì´ 0ë³´ë‹¤ ì‘ìœ¼ë©´ 0ìœ¼ë¡œ ê°±ì‹ 
 					arr[i][j] = 0;
 				}
 			}
