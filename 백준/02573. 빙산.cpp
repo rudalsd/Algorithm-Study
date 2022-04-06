@@ -1,6 +1,6 @@
 #include<iostream>
 #include<queue>
-#include<cstring> 
+#include<cstring>
 
 using namespace std;
 
