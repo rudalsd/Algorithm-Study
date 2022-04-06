@@ -4,24 +4,24 @@ using namespace std;
 
 int main()
 {
-	long long dp[1010] = { 0 };					//°ªÀ» ÀúÀåÇÒ ¹è¿­ »ý¼º
+	int dp[1010] = { 0 };					//ê°’ì„ ì €ìž¥í•  ë°°ì—´ ìƒì„±
 	int n;
 
 	cin >> n;
 
-	dp[1] = 1;									//Ã¹¹øÂ° ¹è¿­ 1·Î ÀúÀå
-	dp[2] = 2;									//µÎ¹øÂ° ¹è¿­ 2·Î ÀúÀå
+	dp[1] = 1;									//ì²«ë²ˆì§¸ ë°°ì—´ 1ë¡œ ì €ìž¥
+	dp[2] = 2;									//ë‘ë²ˆì§¸ ë°°ì—´ 2ë¡œ ì €ìž¥
 
-	if (n < 3) {								//nÀÌ 3º¸´Ù ÀÛÀ» ¶§´Â ¹Ù·Î Ãâ·Â
+	if (n < 3) {								//nì´ 3ë³´ë‹¤ ìž‘ì„ ë•ŒëŠ” ë°”ë¡œ ì¶œë ¥
 		cout << dp[n];
 		return 0;
 	}
 	else {
 		for (int i = 3; i <= n; i++) {
-			dp[i] = dp[i - 1] + dp[i - 2];		//Á¡È­½Ä
-			dp[i] %= 10007;						//10007·Î ³ª´« ³ª¸ÓÁö °ª ÀúÀå
+			dp[i] = dp[i - 1] + dp[i - 2];		//ì í™”ì‹
+			dp[i] %= 10007;						//10007ë¡œ ë‚˜ëˆˆ ë‚˜ë¨¸ì§€ ê°’ ì €ìž¥
 		}
 	}
 
-	cout << dp[n];								//n¹øÂ° °ª Ãâ·Â
+	cout << dp[n];								//në²ˆì§¸ ê°’ ì¶œë ¥
 }
