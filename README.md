@@ -3,6 +3,7 @@
 |사이트|문제|url|
 |---|---|---|
 |백준|보물|https://www.acmicpc.net/problem/1026|
+||기타줄|https://www.acmicpc.net/problem/1049|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
@@ -22,6 +23,7 @@
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||로프|https://www.acmicpc.net/problem/2217|
 ||성곽|https://www.acmicpc.net/problem/2234|
+||동전 1|https://www.acmicpc.net/problem/2293|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
@@ -34,6 +36,7 @@
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
+||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
@@ -66,3 +69,4 @@
 ||무선 충전|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo|
 ||홈 방범 서비스|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu|
 ||보호 필름|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu|
+||오래된 스마트폰|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE|
