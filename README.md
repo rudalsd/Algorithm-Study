@@ -26,6 +26,7 @@
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
+||빙산|https://www.acmicpc.net/problem/2573|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
