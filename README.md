@@ -4,9 +4,11 @@
 |---|---|---|
 |백준|보물|https://www.acmicpc.net/problem/1026|
 ||기타줄|https://www.acmicpc.net/problem/1049|
+||게임|https://www.acmicpc.net/problem/1103|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
+||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
@@ -29,6 +31,7 @@
 ||빙산|https://www.acmicpc.net/problem/2573|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
+||소형기관차|https://www.acmicpc.net/problem/2616|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
