@@ -16,6 +16,7 @@
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
+||수 찾기|https://www.acmicpc.net/problem/1920|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
@@ -25,6 +26,7 @@
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||로프|https://www.acmicpc.net/problem/2217|
 ||성곽|https://www.acmicpc.net/problem/2234|
+||물통|https://www.acmicpc.net/problem/2251|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
