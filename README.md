@@ -12,6 +12,7 @@
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
+||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
@@ -42,12 +43,14 @@
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||타임머신|https://www.acmicpc.net/problem/11657|
+||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
+||피리 부는 사나이|https://www.acmicpc.net/problem/16724|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
