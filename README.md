@@ -11,6 +11,7 @@
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
+||내리막 길|https://www.acmicpc.net/problem/1520|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
@@ -46,6 +47,7 @@
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
+||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
