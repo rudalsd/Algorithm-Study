@@ -44,12 +44,14 @@
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
+||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
+||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
