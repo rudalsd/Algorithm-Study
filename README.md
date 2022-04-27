@@ -7,12 +7,14 @@
 ||게임|https://www.acmicpc.net/problem/1103|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
+||K번째 수|https://www.acmicpc.net/problem/1300|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
+||크로스워드|https://www.acmicpc.net/problem/1706|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||최단경로|https://www.acmicpc.net/problem/1753|
@@ -41,6 +43,7 @@
 ||행성 터널|https://www.acmicpc.net/problem/2887|
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
+||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||타임머신|https://www.acmicpc.net/problem/11657|
