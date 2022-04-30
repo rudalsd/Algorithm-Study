@@ -56,6 +56,7 @@
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
+||아기 상어|https://www.acmicpc.net/problem/16236|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||피리 부는 사나이|https://www.acmicpc.net/problem/16724|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
