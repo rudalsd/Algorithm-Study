@@ -34,6 +34,7 @@
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
+||안전 영역|https://www.acmicpc.net/problem/2468|
 ||빙산|https://www.acmicpc.net/problem/2573|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
@@ -55,6 +56,7 @@
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
+||로봇 청소기|https://www.acmicpc.net/problem/14503|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||아기 상어|https://www.acmicpc.net/problem/16236|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
