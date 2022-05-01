@@ -12,7 +12,7 @@ int sy, sx;
 int dy[4] = { -1,1,0,0 };
 int dx[4] = { 0,0,-1,1 };
 
-int check() {
+int check() {													//먹이가 있는지 없는지 체크
 	for (int i = 0; i < N; i++) {
 		for (int j = 0; j < N; j++) {
 			if (arr[i][j] < ssize && arr[i][j] != 0) {
@@ -73,7 +73,7 @@ int main()
 			if (visited[curY][curX] == 1)continue;
 			visited[curY][curX] = 1;
 
-			if (arr[curY][curX] != 9 && arr[curY][curX] != 0 && arr[curY][curX] < ssize) {
+			if (arr[curY][curX] != 9 && arr[curY][curX] != 0 && arr[curY][curX] < ssize) {	//먹이의 위치와 거리를 pq에 푸시
 				pq.push({ curY,curX,cnt });
 			}
 			
@@ -89,7 +89,7 @@ int main()
 			}
 		}
 
-		if (pq.empty()) {
+		if (pq.empty()) {																	//먹을 수 있는 먹이가 없을 때 탈출
 			break;
 		}
 
