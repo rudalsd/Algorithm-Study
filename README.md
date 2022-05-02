@@ -1,3 +1,5 @@
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
+
 # Algorithm-Study
 
 |사이트|문제|url|
