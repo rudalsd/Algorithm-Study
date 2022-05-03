@@ -6,6 +6,7 @@
 
 |사이트|문제|url|
 |---|---|---|
+||ACM Craft|https://www.acmicpc.net/problem/1005|
 |백준|보물|https://www.acmicpc.net/problem/1026|
 ||기타줄|https://www.acmicpc.net/problem/1049|
 ||게임|https://www.acmicpc.net/problem/1103|
