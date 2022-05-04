@@ -17,6 +17,7 @@
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
+||게임 개발|https://www.acmicpc.net/problem/1516|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
 ||크로스워드|https://www.acmicpc.net/problem/1706|
@@ -70,6 +71,7 @@
 ||연구소 3|https://www.acmicpc.net/problem/17142|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
+||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
