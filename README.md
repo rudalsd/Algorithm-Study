@@ -36,6 +36,7 @@
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||로프|https://www.acmicpc.net/problem/2217|
 ||성곽|https://www.acmicpc.net/problem/2234|
+||자두나무|https://www.acmicpc.net/problem/2240|
 ||물통|https://www.acmicpc.net/problem/2251|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
