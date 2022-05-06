@@ -19,6 +19,7 @@
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||게임 개발|https://www.acmicpc.net/problem/1516|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
+||퍼즐|https://www.acmicpc.net/problem/1525|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
 ||크로스워드|https://www.acmicpc.net/problem/1706|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
@@ -60,6 +61,7 @@
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
 ||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
+||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
