@@ -70,6 +70,7 @@
 ||아기 상어|https://www.acmicpc.net/problem/16236|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||피리 부는 사나이|https://www.acmicpc.net/problem/16724|
+||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
