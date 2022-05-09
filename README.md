@@ -20,11 +20,13 @@
 ||게임 개발|https://www.acmicpc.net/problem/1516|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
 ||퍼즐|https://www.acmicpc.net/problem/1525|
+||도시 분할 계획|https://www.acmicpc.net/problem/1647|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
 ||크로스워드|https://www.acmicpc.net/problem/1706|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||최단경로|https://www.acmicpc.net/problem/1753|
+||부분합|https://www.acmicpc.net/problem/1806|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
@@ -42,6 +44,7 @@
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
+||용액|https://www.acmicpc.net/problem/2467|
 ||안전 영역|https://www.acmicpc.net/problem/2468|
 ||빙산|https://www.acmicpc.net/problem/2573|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
