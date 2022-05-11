@@ -57,8 +57,10 @@
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
 ||탈출|https://www.acmicpc.net/problem/3055|
+||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
+||LCS 2|https://www.acmicpc.net/problem/9252|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
@@ -79,6 +81,7 @@
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
+||RGB거리 2|https://www.acmicpc.net/problem/17404|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
