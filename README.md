@@ -37,6 +37,7 @@
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
+||두 배열의 합|https://www.acmicpc.net/problem/2143|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||로프|https://www.acmicpc.net/problem/2217|
@@ -44,6 +45,7 @@
 ||스도쿠|https://www.acmicpc.net/problem/2239|
 ||자두나무|https://www.acmicpc.net/problem/2240|
 ||물통|https://www.acmicpc.net/problem/2251|
+||줄 세우기|https://www.acmicpc.net/problem/2252|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
