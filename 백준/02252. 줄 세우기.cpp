@@ -7,7 +7,6 @@ using namespace std;
 int N, M;
 vector<int> list[32010];										//더 큰 학생 노드를 저장할 vector list
 int in[32010];													//들어오는 간선의 개수를 저장할 배열
-int visited[32010];												//방문한 노드를 체크할 배열
 
 int main()
 {
@@ -22,15 +21,22 @@ int main()
 		list[a].push_back(b);									//더 큰 학생 노드들을 저장
 	}
 
-	for (int k = 0; k < N; k++) {								//총 N번 반복
-		for (int i = 1; i <= N; i++) {							//N번 돌면서
-			if (visited[i] == 1) continue;						//방문했으면 continue
-			if (in[i] == 0) {									//들어오는 간선이 0개이면
-				visited[i] = 1;									//방문 체크 후
-				cout << i << " ";								//출력
-				for (int j = 0; j < list[i].size(); j++) {
-					in[list[i][j]]--;							//간선--
-				}
+	for (int i = 1; i <= N; i++) {								//N번 돌면서
+		if (in[i] == 0) {										//들어오는 간선의 개수가 0인 노드를 q에 넣기
+			q.push(i);
+		}
+	}
+
+	while (!q.empty())											//q가 빌 때까지
+	{
+		int num = q.front();
+		q.pop();
+		cout << num << " ";										//노드 출력
+
+		for (int i = 0; i < list[num].size(); i++) {
+			in[list[num][i]]--;									//연결된 노드의 들어오는 간선 --
+			if (in[list[num][i]] == 0) {						//들어오는 간선의 개수가 0일 때
+				q.push(list[num][i]);							//q에 집어넣기
 			}
 		}
 	}
