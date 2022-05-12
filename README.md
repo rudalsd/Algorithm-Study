@@ -85,6 +85,7 @@
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
+||사이클 게임|https://www.acmicpc.net/problem/20040|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
@@ -92,6 +93,7 @@
 ||네트워크|https://programmers.co.kr/learn/courses/30/lessons/43162|
 ||단어 변환|https://programmers.co.kr/learn/courses/30/lessons/43163|
 ||여행경로|https://programmers.co.kr/learn/courses/30/lessons/43164|
+||호텔 방 배정|https://programmers.co.kr/learn/courses/30/lessons/64063|
 ||||
 |SWEA|프로세서 연결하기|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf|
 ||인수의 생일파티|https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4xuqCqBeUDFAUx|
