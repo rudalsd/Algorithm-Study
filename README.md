@@ -48,6 +48,7 @@
 ||줄 세우기|https://www.acmicpc.net/problem/2252|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
+||Dance Dance Revolution|https://www.acmicpc.net/problem/2342|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
 ||용액|https://www.acmicpc.net/problem/2467|
 ||안전 영역|https://www.acmicpc.net/problem/2468|
@@ -63,6 +64,7 @@
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
+||앱|https://www.acmicpc.net/problem/7579|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
@@ -74,6 +76,7 @@
 ||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
+||종이 조각|https://www.acmicpc.net/problem/14391|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
