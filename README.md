@@ -69,6 +69,7 @@
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
+||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||타임머신|https://www.acmicpc.net/problem/11657|
