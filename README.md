@@ -1,5 +1,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudalsd&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudalsd&theme=cool)
 ![rudalsd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudalsd&show_icons=true&theme=dracula)
 
 # Algorithm-Study
