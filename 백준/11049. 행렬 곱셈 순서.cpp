@@ -33,17 +33,12 @@ unsigned int DP(int start, int end)												//start부터 end까지의 최숫값을 re
 int main()
 {
 	cin >> N;
-	int Min = 2147483647;
-	memset(dp, -1, sizeof(dp));
+
+	memset(dp, -1, 4 * 550 * N);
+
 	for (int i = 0; i < N; i++) {
-		cin >> arr[i].r >> arr[i].c;
+		scanf("%d %d", &arr[i].r, &arr[i].c);
 	}
 
-	for (int i = 0; i < N - 1; i++) {
-		int sum = DP(0, i) + DP(i + 1, N - 1);										//모든 구역을 이분해서 각 구역의 최솟값을 sum에 넣고,
-		sum += arr[0].r * arr[i].c * arr[N - 1].c;								//처음과 끝 행열의 곱을 sum에 넣은 뒤
-		Min = min(sum, Min);													//최솟값을 Min에 저장
-	}
-
-	cout << Min;
+	cout << DP(0, N - 1);
 }
