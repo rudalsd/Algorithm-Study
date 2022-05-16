@@ -1,6 +1,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudalsd&theme=warm)
-![rudalsd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudalsd&show_icons=true&theme=dracula)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudalsd&theme=cold)
 
 # Algorithm-Study
 
@@ -70,6 +69,7 @@
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
+||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||타임머신|https://www.acmicpc.net/problem/11657|
