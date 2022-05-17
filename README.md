@@ -11,6 +11,7 @@
 ||기타줄|https://www.acmicpc.net/problem/1049|
 ||게임|https://www.acmicpc.net/problem/1103|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
+||보석 도둑|https://www.acmicpc.net/problem/1202|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||K번째 수|https://www.acmicpc.net/problem/1300|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
