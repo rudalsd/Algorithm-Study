@@ -28,6 +28,7 @@
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||최단경로|https://www.acmicpc.net/problem/1753|
+||문제집|https://www.acmicpc.net/problem/1766|
 ||부분합|https://www.acmicpc.net/problem/1806|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
