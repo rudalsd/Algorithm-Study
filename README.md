@@ -59,6 +59,7 @@
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
+||음악프로그램|https://www.acmicpc.net/problem/2623|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
@@ -70,6 +71,7 @@
 ||앱|https://www.acmicpc.net/problem/7579|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
+||1의 개수 세기|https://www.acmicpc.net/problem/9527|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
@@ -93,6 +95,7 @@
 ||피리 부는 사나이|https://www.acmicpc.net/problem/16724|
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
+||A → B|https://www.acmicpc.net/problem/16953|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
