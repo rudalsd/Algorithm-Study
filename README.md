@@ -77,6 +77,7 @@
 ||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
+||Puyo Puyo|https://www.acmicpc.net/problem/11559|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
