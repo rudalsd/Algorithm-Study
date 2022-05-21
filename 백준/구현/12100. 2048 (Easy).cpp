@@ -6,173 +6,68 @@ int N;
 int arr[21][21];
 int ans = 0;
 
-void move(int num)
+void move()																//블럭들을 합치고 옮기는 함수
 {
-	if (num == 0) {														//왼쪽으로 이동
+	for (int i = 0; i < N; i++) {
+		int before = 0;
+		int y;
+		int x;
+		for (int j = 0; j < N; j++) {
+			if (before == 0) {
+				if (arr[i][j] != 0) {
+					before = arr[i][j];
+					y = i;
+					x = j;
+				}
+			}
+			else {
+				if (arr[i][j] != 0) {
+					if (before == arr[i][j]) {
+						arr[y][x] = before * 2;
+						arr[i][j] = 0;
+						before = 0;
+					}
+					else {
+						before = arr[i][j];
+						y = i;
+						x = j;
+					}
+				}
+			}
+		}
+	}
+	for (int i = 0; i < N; i++) {
+		int cnt = 0;
+		for (int j = 0; j < N; j++) {
+			if (arr[i][j] != 0) {
+				if (cnt != j) {
+					arr[i][cnt] = arr[i][j];
+					arr[i][j] = 0;
+				}
+				cnt++;
+			}
+		}
+	}
+}
+
+void turn(int num)														//num만큼 90도 회전
+{
+	int temp[21][21];
+	for (int i = 0; i < N; i++) {
+		for (int j = 0; j < N; j++) {
+			temp[i][j] = arr[i][j];
+		}
+	}
+
+	for (int k = 0; k < num; k++) {
 		for (int i = 0; i < N; i++) {
-			int before = 0;
-			int y;
-			int x;
 			for (int j = 0; j < N; j++) {
-				if (before == 0) {
-					if (arr[i][j] != 0) {
-						before = arr[i][j];
-						y = i;
-						x = j;
-					}
-				}
-				else {
-					if (arr[i][j] != 0) {
-						if (before == arr[i][j]) {
-							arr[y][x] = before * 2;
-							arr[i][j] = 0;
-							before = 0;
-						}
-						else {
-							before = arr[i][j];
-							y = i;
-							x = j;
-						}
-					}
-				}
+				arr[i][j] = temp[j][N - i - 1];
 			}
 		}
 		for (int i = 0; i < N; i++) {
-			int cnt = 0;
 			for (int j = 0; j < N; j++) {
-				if (arr[i][j] != 0) {
-					if (cnt != j) {
-						arr[i][cnt] = arr[i][j];
-						arr[i][j] = 0;
-					}
-					cnt++;
-				}
-			}
-		}
-	}
-	else if (num == 1) {												//오른쪽으로 이동
-		for (int i = 0; i < N; i++) {
-			int before = 0;
-			int y;
-			int x;
-			for (int j = N - 1; j >= 0; j--) {
-				if (before == 0) {
-					if (arr[i][j] != 0) {
-						before = arr[i][j];
-						y = i;
-						x = j;
-					}
-				}
-				else {
-					if (arr[i][j] != 0) {
-						if (before == arr[i][j]) {
-							arr[y][x] = before * 2;
-							arr[i][j] = 0;
-							before = 0;
-						}
-						else {
-							before = arr[i][j];
-							y = i;
-							x = j;
-						}
-					}
-				}
-			}
-		}
-		for (int i = 0; i < N; i++) {
-			int cnt = N - 1;
-			for (int j = N - 1; j >= 0; j--) {
-				if (arr[i][j] != 0) {
-					if (cnt != j) {
-						arr[i][cnt] = arr[i][j];
-						arr[i][j] = 0;
-					}
-					cnt--;
-				}
-			}
-		}
-	}
-	else if (num == 2) {												//위로 이동
-		for (int j = 0; j < N; j++) {
-			int before = 0;
-			int y;
-			int x;
-			for (int i = 0; i < N; i++) {
-				if (before == 0) {
-					if (arr[i][j] != 0) {
-						before = arr[i][j];
-						y = i;
-						x = j;
-					}
-				}
-				else {
-					if (arr[i][j] != 0) {
-						if (before == arr[i][j]) {
-							arr[y][x] = before * 2;
-							arr[i][j] = 0;
-							before = 0;
-						}
-						else {
-							before = arr[i][j];
-							y = i;
-							x = j;
-						}
-					}
-				}
-			}
-		}
-		for (int j = 0; j < N; j++) {
-			int cnt = 0;
-			for (int i = 0; i < N; i++) {
-				if (arr[i][j] != 0) {
-					if (cnt != i) {
-						arr[cnt][j] = arr[i][j];
-						arr[i][j] = 0;
-					}
-					cnt++;
-				}
-			}
-		}
-	}
-	else {																//아래로 이동
-		for (int j = 0; j < N; j++) {
-			int before = 0;
-			int y;
-			int x;
-			for (int i = N - 1; i >= 0; i--) {
-				if (before == 0) {
-					if (arr[i][j] != 0) {
-						before = arr[i][j];
-						y = i;
-						x = j;
-					}
-				}
-				else {
-					if (arr[i][j] != 0) {
-						if (before == arr[i][j]) {
-							arr[y][x] = before * 2;
-							arr[i][j] = 0;
-							before = 0;
-						}
-						else {
-							before = arr[i][j];
-							y = i;
-							x = j;
-						}
-					}
-				}
-			}
-		}
-		for (int j = 0; j < N; j++) {
-			int cnt = N - 1;
-			for (int i = N - 1; i >= 0; i--) {
-				if (arr[i][j] != 0) {
-					if (cnt != i) {
-						arr[cnt][j] = arr[i][j];
-						arr[i][j] = 0;
-					}
-					cnt--;
-				}
+				temp[i][j] = arr[i][j];
 			}
 		}
 	}
@@ -200,7 +95,8 @@ void dfs(int level)
 	}
 
 	for (int k = 0; k < 4; k++) {
-		move(k);														//옮긴 후
+		turn(k);
+		move();															//옮긴 후
 		dfs(level + 1);													//다음으로 넘어갔다가
 		for (int i = 0; i < N; i++) {									//나올 때 원상 복구
 			for (int j = 0; j < N; j++) {
