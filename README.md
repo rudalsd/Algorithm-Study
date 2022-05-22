@@ -98,6 +98,7 @@
 ||피리 부는 사나이|https://www.acmicpc.net/problem/16724|
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
+||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
