@@ -102,6 +102,7 @@
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
 ||낚시왕|https://www.acmicpc.net/problem/17143|
+||선분 교차 2|https://www.acmicpc.net/problem/17387|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
