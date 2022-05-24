@@ -1,4 +1,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudalsd&theme=cold)
 
 # Algorithm-Study
