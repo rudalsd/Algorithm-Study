@@ -54,6 +54,7 @@
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||Dance Dance Revolution|https://www.acmicpc.net/problem/2342|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
+||조합|https://www.acmicpc.net/problem/2407|
 ||용액|https://www.acmicpc.net/problem/2467|
 ||안전 영역|https://www.acmicpc.net/problem/2468|
 ||세 용액|https://www.acmicpc.net/problem/2473|
