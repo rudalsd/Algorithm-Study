@@ -77,6 +77,7 @@
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
 ||공항|https://www.acmicpc.net/problem/10775|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
+||쉬운 계단 수|https://www.acmicpc.net/problem/10844|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
