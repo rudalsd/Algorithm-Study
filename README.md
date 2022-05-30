@@ -23,6 +23,7 @@
 ||게임 개발|https://www.acmicpc.net/problem/1516|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
 ||퍼즐|https://www.acmicpc.net/problem/1525|
+||계단 수|https://www.acmicpc.net/problem/1562|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
