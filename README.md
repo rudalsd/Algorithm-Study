@@ -10,6 +10,7 @@
 ||보물|https://www.acmicpc.net/problem/1026|
 ||기타줄|https://www.acmicpc.net/problem/1049|
 ||게임|https://www.acmicpc.net/problem/1103|
+||RGB거리|https://www.acmicpc.net/problem/1149|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
 ||보석 도둑|https://www.acmicpc.net/problem/1202|
 ||부분수열의 합 2|https://www.acmicpc.net/problem/1208|
