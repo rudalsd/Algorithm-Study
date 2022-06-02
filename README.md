@@ -75,6 +75,7 @@
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||앱|https://www.acmicpc.net/problem/7579|
+||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
