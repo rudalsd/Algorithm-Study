@@ -91,6 +91,7 @@
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
+||최소비용 구하기 2|https://www.acmicpc.net/problem/11779|
 ||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
 ||2048 (Easy)|https://www.acmicpc.net/problem/12100|
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
