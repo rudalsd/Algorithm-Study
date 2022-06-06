@@ -20,6 +20,7 @@
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
+||특정한 최단 경로|https://www.acmicpc.net/problem/1504|
 ||팰린드롬 분할|https://www.acmicpc.net/problem/1509|
 ||게임 개발|https://www.acmicpc.net/problem/1516|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
@@ -75,6 +76,7 @@
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||앱|https://www.acmicpc.net/problem/7579|
+||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
@@ -84,12 +86,14 @@
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
+||가장 긴 바이토닉 부분 수열|https://www.acmicpc.net/problem/11054|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||Puyo Puyo|https://www.acmicpc.net/problem/11559|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
+||최소비용 구하기 2|https://www.acmicpc.net/problem/11779|
 ||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
 ||2048 (Easy)|https://www.acmicpc.net/problem/12100|
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
@@ -108,6 +112,7 @@
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
+||파이프 옮기기 1|https://www.acmicpc.net/problem/17070|
 ||연구소 3|https://www.acmicpc.net/problem/17142|
 ||낚시왕|https://www.acmicpc.net/problem/17143|
 ||선분 교차 2|https://www.acmicpc.net/problem/17387|
