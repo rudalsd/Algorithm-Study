@@ -39,6 +39,7 @@
 ||부분합|https://www.acmicpc.net/problem/1806|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
+||웜홀|https://www.acmicpc.net/problem/1865|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
 ||알파벳|https://www.acmicpc.net/problem/1987|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
