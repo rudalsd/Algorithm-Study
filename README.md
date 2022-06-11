@@ -91,6 +91,7 @@
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||가장 긴 바이토닉 부분 수열|https://www.acmicpc.net/problem/11054|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
+||플로이드|https://www.acmicpc.net/problem/11404|
 ||Puyo Puyo|https://www.acmicpc.net/problem/11559|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
