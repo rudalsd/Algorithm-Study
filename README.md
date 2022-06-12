@@ -103,6 +103,7 @@
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||평범한 배낭|https://www.acmicpc.net/problem/12865|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
+||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
