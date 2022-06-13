@@ -69,6 +69,7 @@
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
 ||음악프로그램|https://www.acmicpc.net/problem/2623|
+||치즈|https://www.acmicpc.net/problem/2638|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
