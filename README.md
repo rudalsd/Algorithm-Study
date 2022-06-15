@@ -84,6 +84,7 @@
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
 ||N-Queen|https://www.acmicpc.net/problem/9663|
+||문자열 폭발|https://www.acmicpc.net/problem/9935|
 ||공항|https://www.acmicpc.net/problem/10775|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||쉬운 계단 수|https://www.acmicpc.net/problem/10844|
