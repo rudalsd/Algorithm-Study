@@ -106,6 +106,7 @@
 ||평범한 배낭|https://www.acmicpc.net/problem/12865|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
+||숨바꼭질 3|https://www.acmicpc.net/problem/13549|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
