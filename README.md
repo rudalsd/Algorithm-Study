@@ -41,6 +41,7 @@
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||웜홀|https://www.acmicpc.net/problem/1865|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
+||트리의 지름|https://www.acmicpc.net/problem/1967|
 ||알파벳|https://www.acmicpc.net/problem/1987|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
