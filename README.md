@@ -80,6 +80,7 @@
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||앱|https://www.acmicpc.net/problem/7579|
+||이중 우선순위 큐|https://www.acmicpc.net/problem/7662|
 ||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
