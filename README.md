@@ -107,6 +107,7 @@
 ||최소비용 구하기 2|https://www.acmicpc.net/problem/11779|
 ||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
 ||2048 (Easy)|https://www.acmicpc.net/problem/12100|
+||본대 산책2|https://www.acmicpc.net/problem/12850|
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||평범한 배낭|https://www.acmicpc.net/problem/12865|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
