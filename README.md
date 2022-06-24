@@ -67,6 +67,7 @@
 ||용액|https://www.acmicpc.net/problem/2467|
 ||안전 영역|https://www.acmicpc.net/problem/2468|
 ||세 용액|https://www.acmicpc.net/problem/2473|
+||전깃줄 - 2|https://www.acmicpc.net/problem/2568|
 ||빙산|https://www.acmicpc.net/problem/2573|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
