@@ -51,6 +51,7 @@
 ||외판원 순회|https://www.acmicpc.net/problem/2098|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||두 배열의 합|https://www.acmicpc.net/problem/2143|
+||선분 그룹|https://www.acmicpc.net/problem/2162|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||로프|https://www.acmicpc.net/problem/2217|
