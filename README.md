@@ -121,6 +121,7 @@
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
+||개미굴|https://www.acmicpc.net/problem/14725|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||치킨 배달|https://www.acmicpc.net/problem/15686|
