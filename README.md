@@ -126,6 +126,7 @@
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||치킨 배달|https://www.acmicpc.net/problem/15686|
+||너 봄에는 캡사이신이 맛있단다|https://www.acmicpc.net/problem/15824|
 ||두 동전|https://www.acmicpc.net/problem/16197|
 ||아기 상어|https://www.acmicpc.net/problem/16236|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
