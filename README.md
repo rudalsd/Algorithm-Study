@@ -130,6 +130,7 @@
 ||두 동전|https://www.acmicpc.net/problem/16197|
 ||아기 상어|https://www.acmicpc.net/problem/16236|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
+||N포커|https://www.acmicpc.net/problem/16565|
 ||카드 게임|https://www.acmicpc.net/problem/16566|
 ||피리 부는 사나이|https://www.acmicpc.net/problem/16724|
 ||확장 게임|https://www.acmicpc.net/problem/16920|
@@ -141,6 +142,7 @@
 ||낚시왕|https://www.acmicpc.net/problem/17143|
 ||선분 교차 2|https://www.acmicpc.net/problem/17387|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
+||소수의 배수|https://www.acmicpc.net/problem/17436|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
