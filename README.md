@@ -48,6 +48,7 @@
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
+||구간 합 구하기|https://www.acmicpc.net/problem/2042|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||외판원 순회|https://www.acmicpc.net/problem/2098|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
