@@ -124,6 +124,7 @@
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
+||연구소|https://www.acmicpc.net/problem/14502|
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
 ||개미굴|https://www.acmicpc.net/problem/14725|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
