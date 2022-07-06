@@ -13,8 +13,8 @@ void dfs(int node, int size)
 		if (arr[node] < arr[i]) break;
 	}
 
-	dfs(node + 1, i);	//¿ÞÂÊ
-	dfs(i, size);		//¿À¸¥ÂÊ
+	dfs(node + 1, i);	//ì™¼ìª½
+	dfs(i, size);		//ì˜¤ë¥¸ìª½
 	printf("%d\n", arr[node]);
 
 	return;
