@@ -50,6 +50,7 @@
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
 ||구간 합 구하기|https://www.acmicpc.net/problem/2042|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
+||내려가기|https://www.acmicpc.net/problem/2096|
 ||외판원 순회|https://www.acmicpc.net/problem/2098|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||두 배열의 합|https://www.acmicpc.net/problem/2143|
