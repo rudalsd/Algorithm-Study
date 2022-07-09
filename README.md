@@ -111,6 +111,7 @@
 ||구간 곱 구하기|https://www.acmicpc.net/problem/11505|
 ||Puyo Puyo|https://www.acmicpc.net/problem/11559|
 ||타임머신|https://www.acmicpc.net/problem/11657|
+||GCD(n, k) = 1|https://www.acmicpc.net/problem/11689|
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
