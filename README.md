@@ -125,6 +125,7 @@
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
 ||숨바꼭질 3|https://www.acmicpc.net/problem/13549|
+||이항 계수와 쿼리|https://www.acmicpc.net/problem/13977|
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
