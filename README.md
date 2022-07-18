@@ -105,6 +105,7 @@
 ||문자열 폭발|https://www.acmicpc.net/problem/9935|
 ||공항|https://www.acmicpc.net/problem/10775|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
+||행렬 제곱|https://www.acmicpc.net/problem/10830|
 ||쉬운 계단 수|https://www.acmicpc.net/problem/10844|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
