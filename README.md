@@ -34,10 +34,13 @@
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
 ||크로스워드|https://www.acmicpc.net/problem/1706|
+||볼록 껍질|https://www.acmicpc.net/problem/1708|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||최단경로|https://www.acmicpc.net/problem/1753|
+||정점들의 거리|https://www.acmicpc.net/problem/1761|
 ||문제집|https://www.acmicpc.net/problem/1766|
+||찾기|https://www.acmicpc.net/problem/1786|
 ||비숍|https://www.acmicpc.net/problem/1799|
 ||부분합|https://www.acmicpc.net/problem/1806|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
