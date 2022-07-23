@@ -142,6 +142,7 @@
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
 ||개미굴|https://www.acmicpc.net/problem/14725|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
+||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||N과 M (4)|https://www.acmicpc.net/problem/15652|
 ||치킨 배달|https://www.acmicpc.net/problem/15686|
