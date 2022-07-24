@@ -84,6 +84,7 @@
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
+||경찰차|https://www.acmicpc.net/problem/2618|
 ||음악프로그램|https://www.acmicpc.net/problem/2623|
 ||치즈|https://www.acmicpc.net/problem/2638|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
