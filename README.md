@@ -96,6 +96,7 @@
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
+||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||앱|https://www.acmicpc.net/problem/7579|
 ||이중 우선순위 큐|https://www.acmicpc.net/problem/7662|
