@@ -67,6 +67,7 @@
 ||성곽|https://www.acmicpc.net/problem/2234|
 ||스도쿠|https://www.acmicpc.net/problem/2239|
 ||자두나무|https://www.acmicpc.net/problem/2240|
+||사탕상자|https://www.acmicpc.net/problem/2243|
 ||물통|https://www.acmicpc.net/problem/2251|
 ||줄 세우기|https://www.acmicpc.net/problem/2252|
 ||동전 1|https://www.acmicpc.net/problem/2293|
