@@ -118,6 +118,7 @@
 ||가장 긴 바이토닉 부분 수열|https://www.acmicpc.net/problem/11054|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||플로이드|https://www.acmicpc.net/problem/11404|
+||피보나치 수 6|https://www.acmicpc.net/problem/11444|
 ||구간 곱 구하기|https://www.acmicpc.net/problem/11505|
 ||Puyo Puyo|https://www.acmicpc.net/problem/11559|
 ||타임머신|https://www.acmicpc.net/problem/11657|
