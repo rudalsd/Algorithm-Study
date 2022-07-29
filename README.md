@@ -151,6 +151,7 @@
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||N과 M (4)|https://www.acmicpc.net/problem/15652|
 ||N과 M (5)|https://www.acmicpc.net/problem/15654|
+||N과 M (12)|https://www.acmicpc.net/problem/15666|
 ||치킨 배달|https://www.acmicpc.net/problem/15686|
 ||너 봄에는 캡사이신이 맛있단다|https://www.acmicpc.net/problem/15824|
 ||두 동전|https://www.acmicpc.net/problem/16197|
