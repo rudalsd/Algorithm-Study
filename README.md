@@ -38,6 +38,7 @@
 ||볼록 껍질|https://www.acmicpc.net/problem/1708|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
+||히스토그램|https://www.acmicpc.net/problem/1725|
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||정점들의 거리|https://www.acmicpc.net/problem/1761|
 ||문제집|https://www.acmicpc.net/problem/1766|
@@ -99,6 +100,7 @@
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
+||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||앱|https://www.acmicpc.net/problem/7579|
 ||이중 우선순위 큐|https://www.acmicpc.net/problem/7662|
