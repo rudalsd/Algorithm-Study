@@ -111,6 +111,7 @@
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
 ||N-Queen|https://www.acmicpc.net/problem/9663|
 ||문자열 폭발|https://www.acmicpc.net/problem/9935|
+||적록색약|https://www.acmicpc.net/problem/10026|
 ||공항|https://www.acmicpc.net/problem/10775|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||행렬 제곱|https://www.acmicpc.net/problem/10830|
