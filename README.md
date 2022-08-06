@@ -140,6 +140,7 @@
 ||본대 산책2|https://www.acmicpc.net/problem/12850|
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||평범한 배낭|https://www.acmicpc.net/problem/12865|
+||Ignition|https://www.acmicpc.net/problem/13141|
 ||철로|https://www.acmicpc.net/problem/13334|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
