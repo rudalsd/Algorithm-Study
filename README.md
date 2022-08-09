@@ -181,6 +181,7 @@
 ||미세먼지 안녕!|https://www.acmicpc.net/problem/17144|
 ||이사|https://www.acmicpc.net/problem/17371|
 ||선분 교차 2|https://www.acmicpc.net/problem/17387|
+||일하는 세포|https://www.acmicpc.net/problem/17401|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
 ||소수의 배수|https://www.acmicpc.net/problem/17436|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
