@@ -110,6 +110,7 @@
 ||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||열쇠|https://www.acmicpc.net/problem/9328|
+||스티커|https://www.acmicpc.net/problem/9465|
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
 ||N-Queen|https://www.acmicpc.net/problem/9663|
