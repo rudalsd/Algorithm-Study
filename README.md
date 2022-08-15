@@ -98,6 +98,7 @@
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
+||뱀|https://www.acmicpc.net/problem/3190|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
