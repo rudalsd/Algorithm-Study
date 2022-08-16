@@ -98,18 +98,21 @@
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
+||뱀|https://www.acmicpc.net/problem/3190|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
+||토마토|https://www.acmicpc.net/problem/7576|
 ||공장|https://www.acmicpc.net/problem/7578|
 ||앱|https://www.acmicpc.net/problem/7579|
 ||이중 우선순위 큐|https://www.acmicpc.net/problem/7662|
 ||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||열쇠|https://www.acmicpc.net/problem/9328|
+||스티커|https://www.acmicpc.net/problem/9465|
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
 ||N-Queen|https://www.acmicpc.net/problem/9663|
@@ -151,6 +154,7 @@
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
+||주사위 굴리기|https://www.acmicpc.net/problem/14499|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연구소|https://www.acmicpc.net/problem/14502|
@@ -174,6 +178,7 @@
 ||피리 부는 사나이|https://www.acmicpc.net/problem/16724|
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
+||뱀과 사다리 게임|https://www.acmicpc.net/problem/16928|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||파이프 옮기기 1|https://www.acmicpc.net/problem/17070|
