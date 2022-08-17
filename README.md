@@ -162,6 +162,7 @@
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
 ||개미굴|https://www.acmicpc.net/problem/14725|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
+||스타트와 링크|https://www.acmicpc.net/problem/14889|
 ||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||개미|https://www.acmicpc.net/problem/14942|
