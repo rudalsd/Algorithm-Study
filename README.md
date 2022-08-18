@@ -138,6 +138,7 @@
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||트리의 부모 찾기|https://www.acmicpc.net/problem/11725|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
+||2×n 타일링 2|https://www.acmicpc.net/problem/11727|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
 ||최소비용 구하기 2|https://www.acmicpc.net/problem/11779|
 ||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
@@ -154,12 +155,14 @@
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
+||주사위 굴리기|https://www.acmicpc.net/problem/14499|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연구소|https://www.acmicpc.net/problem/14502|
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
 ||개미굴|https://www.acmicpc.net/problem/14725|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
+||스타트와 링크|https://www.acmicpc.net/problem/14889|
 ||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||개미|https://www.acmicpc.net/problem/14942|
