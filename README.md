@@ -49,6 +49,7 @@
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||웜홀|https://www.acmicpc.net/problem/1865|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
+||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
 ||임계경로|https://www.acmicpc.net/problem/1948|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
