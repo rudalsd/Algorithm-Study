@@ -49,6 +49,7 @@
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||웜홀|https://www.acmicpc.net/problem/1865|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
+||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
 ||임계경로|https://www.acmicpc.net/problem/1948|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
@@ -124,6 +125,7 @@
 ||쉬운 계단 수|https://www.acmicpc.net/problem/10844|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||수 정렬하기 3|https://www.acmicpc.net/problem/10989|
+||동전 0|https://www.acmicpc.net/problem/11047|
 ||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||가장 긴 바이토닉 부분 수열|https://www.acmicpc.net/problem/11054|
@@ -162,6 +164,7 @@
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
 ||개미굴|https://www.acmicpc.net/problem/14725|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
+||스타트와 링크|https://www.acmicpc.net/problem/14889|
 ||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||개미|https://www.acmicpc.net/problem/14942|
