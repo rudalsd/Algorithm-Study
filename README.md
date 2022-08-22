@@ -42,6 +42,7 @@
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||정점들의 거리|https://www.acmicpc.net/problem/1761|
 ||문제집|https://www.acmicpc.net/problem/1766|
+||종이의 개수|https://www.acmicpc.net/problem/1780|
 ||찾기|https://www.acmicpc.net/problem/1786|
 ||비숍|https://www.acmicpc.net/problem/1799|
 ||부분합|https://www.acmicpc.net/problem/1806|
@@ -49,6 +50,7 @@
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||웜홀|https://www.acmicpc.net/problem/1865|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
+||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
 ||임계경로|https://www.acmicpc.net/problem/1948|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
@@ -98,6 +100,7 @@
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
+||도로 네트워크|https://www.acmicpc.net/problem/3176|
 ||뱀|https://www.acmicpc.net/problem/3190|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
