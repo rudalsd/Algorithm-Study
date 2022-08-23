@@ -29,6 +29,7 @@
 ||게임 개발|https://www.acmicpc.net/problem/1516|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
 ||퍼즐|https://www.acmicpc.net/problem/1525|
+||길의 개수|https://www.acmicpc.net/problem/1533|
 ||계단 수|https://www.acmicpc.net/problem/1562|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
