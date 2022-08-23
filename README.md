@@ -132,6 +132,7 @@
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||가장 긴 바이토닉 부분 수열|https://www.acmicpc.net/problem/11054|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
+||절댓값 힙|https://www.acmicpc.net/problem/11286|
 ||플로이드|https://www.acmicpc.net/problem/11404|
 ||LCA 2|https://www.acmicpc.net/problem/11438|
 ||피보나치 수 6|https://www.acmicpc.net/problem/11444|
