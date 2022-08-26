@@ -29,6 +29,7 @@
 ||게임 개발|https://www.acmicpc.net/problem/1516|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
 ||퍼즐|https://www.acmicpc.net/problem/1525|
+||길의 개수|https://www.acmicpc.net/problem/1533|
 ||계단 수|https://www.acmicpc.net/problem/1562|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
@@ -102,6 +103,7 @@
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
 ||도로 네트워크|https://www.acmicpc.net/problem/3176|
 ||뱀|https://www.acmicpc.net/problem/3190|
+||영화 수집|https://www.acmicpc.net/problem/3653|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
@@ -132,6 +134,7 @@
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||가장 긴 바이토닉 부분 수열|https://www.acmicpc.net/problem/11054|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
+||단절점|https://www.acmicpc.net/problem/11266|
 ||절댓값 힙|https://www.acmicpc.net/problem/11286|
 ||플로이드|https://www.acmicpc.net/problem/11404|
 ||LCA 2|https://www.acmicpc.net/problem/11438|
