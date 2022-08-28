@@ -187,6 +187,7 @@
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||N포커|https://www.acmicpc.net/problem/16565|
 ||카드 게임|https://www.acmicpc.net/problem/16566|
+||괄호 추가하기|https://www.acmicpc.net/problem/16637|
 ||피리 부는 사나이|https://www.acmicpc.net/problem/16724|
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
