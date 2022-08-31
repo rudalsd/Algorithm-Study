@@ -5,7 +5,8 @@
 
 |사이트|문제|url|
 |---|---|---|
-|백준|ACM Craft|https://www.acmicpc.net/problem/1005|
+|백준|피보나치 함수|https://www.acmicpc.net/problem/1003|
+||ACM Craft|https://www.acmicpc.net/problem/1005|
 ||벡터 매칭|https://www.acmicpc.net/problem/1007|
 ||책 페이지|https://www.acmicpc.net/problem/1019|
 ||보물|https://www.acmicpc.net/problem/1026|
