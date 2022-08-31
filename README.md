@@ -182,6 +182,7 @@
 ||치킨 배달|https://www.acmicpc.net/problem/15686|
 ||너 봄에는 캡사이신이 맛있단다|https://www.acmicpc.net/problem/15824|
 ||두 동전|https://www.acmicpc.net/problem/16197|
+||인구 이동|https://www.acmicpc.net/problem/16234|
 ||아기 상어|https://www.acmicpc.net/problem/16236|
 ||Parcel|https://www.acmicpc.net/problem/16287|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
