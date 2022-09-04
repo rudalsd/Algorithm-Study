@@ -212,6 +212,7 @@
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
+||상어 초등학교|https://www.acmicpc.net/problem/21608|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
