@@ -212,6 +212,7 @@
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
+||컨베이어 벨트 위의 로봇|https://www.acmicpc.net/problem/20055|
 ||상어 초등학교|https://www.acmicpc.net/problem/21608|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
