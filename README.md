@@ -207,10 +207,13 @@
 ||일하는 세포|https://www.acmicpc.net/problem/17401|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
 ||소수의 배수|https://www.acmicpc.net/problem/17436|
+||게리맨더링|https://www.acmicpc.net/problem/17471|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
+||컨베이어 벨트 위의 로봇|https://www.acmicpc.net/problem/20055|
+||상어 초등학교|https://www.acmicpc.net/problem/21608|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
