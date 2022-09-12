@@ -108,6 +108,7 @@
 ||영화 수집|https://www.acmicpc.net/problem/3653|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
+||큐빙|https://www.acmicpc.net/problem/5373|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
