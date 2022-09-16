@@ -148,6 +148,7 @@
 ||Puyo Puyo|https://www.acmicpc.net/problem/11559|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||GCD(n, k) = 1|https://www.acmicpc.net/problem/11689|
+||집합|https://www.acmicpc.net/problem/11723|
 ||연결 요소의 개수|https://www.acmicpc.net/problem/11724|
 ||트리의 부모 찾기|https://www.acmicpc.net/problem/11725|
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
