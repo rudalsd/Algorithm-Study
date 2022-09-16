@@ -8,6 +8,7 @@
 |백준|피보나치 함수|https://www.acmicpc.net/problem/1003|
 ||ACM Craft|https://www.acmicpc.net/problem/1005|
 ||벡터 매칭|https://www.acmicpc.net/problem/1007|
+||유기농 배추|https://www.acmicpc.net/problem/1012|
 ||책 페이지|https://www.acmicpc.net/problem/1019|
 ||보물|https://www.acmicpc.net/problem/1026|
 ||기타줄|https://www.acmicpc.net/problem/1049|
