@@ -14,6 +14,7 @@
 ||기타줄|https://www.acmicpc.net/problem/1049|
 ||박성원|https://www.acmicpc.net/problem/1086|
 ||게임|https://www.acmicpc.net/problem/1103|
+||리모컨|https://www.acmicpc.net/problem/1107|
 ||RGB거리|https://www.acmicpc.net/problem/1149|
 ||트리의 지름|https://www.acmicpc.net/problem/1167|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
