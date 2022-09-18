@@ -220,6 +220,7 @@
 ||소수의 배수|https://www.acmicpc.net/problem/17436|
 ||게리맨더링|https://www.acmicpc.net/problem/17471|
 ||게리맨더링 2|https://www.acmicpc.net/problem/17779|
+||새로운 게임 2|https://www.acmicpc.net/problem/17837|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
