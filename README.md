@@ -226,6 +226,7 @@
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
 ||컨베이어 벨트 위의 로봇|https://www.acmicpc.net/problem/20055|
+||마법사 상어와 파이어볼|https://www.acmicpc.net/problem/20056|
 ||상어 초등학교|https://www.acmicpc.net/problem/21608|
 ||마법사 상어와 비바라기|https://www.acmicpc.net/problem/21610|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
