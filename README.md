@@ -221,6 +221,7 @@
 ||게리맨더링|https://www.acmicpc.net/problem/17471|
 ||게리맨더링 2|https://www.acmicpc.net/problem/17779|
 ||원판 돌리기|https://www.acmicpc.net/problem/17822|
+||주사위 윷놀이|https://www.acmicpc.net/problem/17825|
 ||새로운 게임 2|https://www.acmicpc.net/problem/17837|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
