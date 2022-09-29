@@ -227,6 +227,7 @@
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||청소년 상어|https://www.acmicpc.net/problem/19236|
+||어른 상어|https://www.acmicpc.net/problem/19237|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
 ||컨베이어 벨트 위의 로봇|https://www.acmicpc.net/problem/20055|
