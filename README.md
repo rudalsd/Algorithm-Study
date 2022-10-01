@@ -228,6 +228,7 @@
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||청소년 상어|https://www.acmicpc.net/problem/19236|
 ||어른 상어|https://www.acmicpc.net/problem/19237|
+||스타트 택시|https://www.acmicpc.net/problem/19238|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
 ||컨베이어 벨트 위의 로봇|https://www.acmicpc.net/problem/20055|
