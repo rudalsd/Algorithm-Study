@@ -240,6 +240,7 @@
 ||상어 중학교|https://www.acmicpc.net/problem/21609|
 ||마법사 상어와 비바라기|https://www.acmicpc.net/problem/21610|
 ||마법사 상어와 블리자드|https://www.acmicpc.net/problem/21611|
+||주사위 굴리기 2|https://www.acmicpc.net/problem/23288|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
