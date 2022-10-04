@@ -242,6 +242,7 @@
 ||마법사 상어와 블리자드|https://www.acmicpc.net/problem/21611|
 ||주사위 굴리기 2|https://www.acmicpc.net/problem/23288|
 ||온풍기 안녕!|https://www.acmicpc.net/problem/23289|
+||마법사 상어와 복제|https://www.acmicpc.net/problem/23290|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
