@@ -220,6 +220,7 @@
 ||선분 교차 2|https://www.acmicpc.net/problem/17387|
 ||일하는 세포|https://www.acmicpc.net/problem/17401|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
+||배열 돌리기 4|https://www.acmicpc.net/problem/17406|
 ||소수의 배수|https://www.acmicpc.net/problem/17436|
 ||게리맨더링|https://www.acmicpc.net/problem/17471|
 ||게리맨더링 2|https://www.acmicpc.net/problem/17779|
