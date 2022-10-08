@@ -109,6 +109,7 @@
 ||뱀|https://www.acmicpc.net/problem/3190|
 ||영화 수집|https://www.acmicpc.net/problem/3653|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
+||스타트링크|https://www.acmicpc.net/problem/5014|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||큐빙|https://www.acmicpc.net/problem/5373|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
