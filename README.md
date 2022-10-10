@@ -57,6 +57,7 @@
 ||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
 ||임계경로|https://www.acmicpc.net/problem/1948|
+||운동|https://www.acmicpc.net/problem/1956|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
 ||알파벳|https://www.acmicpc.net/problem/1987|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
