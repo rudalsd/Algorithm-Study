@@ -174,6 +174,7 @@
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
+||벽 부수고 이동하기 2|https://www.acmicpc.net/problem/14442|
 ||주사위 굴리기|https://www.acmicpc.net/problem/14499|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
