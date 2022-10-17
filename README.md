@@ -99,6 +99,7 @@
 ||소형기관차|https://www.acmicpc.net/problem/2616|
 ||경찰차|https://www.acmicpc.net/problem/2618|
 ||음악프로그램|https://www.acmicpc.net/problem/2623|
+||줄세우기|https://www.acmicpc.net/problem/2631|
 ||치즈|https://www.acmicpc.net/problem/2636|
 ||치즈|https://www.acmicpc.net/problem/2638|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
