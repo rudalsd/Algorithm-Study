@@ -75,6 +75,7 @@
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||로프|https://www.acmicpc.net/problem/2217|
+||합분해|https://www.acmicpc.net/problem/2225|
 ||성곽|https://www.acmicpc.net/problem/2234|
 ||스도쿠|https://www.acmicpc.net/problem/2239|
 ||자두나무|https://www.acmicpc.net/problem/2240|
