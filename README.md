@@ -118,6 +118,7 @@
 ||스타트링크|https://www.acmicpc.net/problem/5014|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||큐빙|https://www.acmicpc.net/problem/5373|
+||공통 부분 문자열|https://www.acmicpc.net/problem/5582|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
