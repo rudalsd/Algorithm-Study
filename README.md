@@ -91,6 +91,7 @@
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
 ||최솟값과 최댓값|https://www.acmicpc.net/problem/2357|
 ||조합|https://www.acmicpc.net/problem/2407|
+||2의 멱수의 합|https://www.acmicpc.net/problem/2410|
 ||용액|https://www.acmicpc.net/problem/2467|
 ||안전 영역|https://www.acmicpc.net/problem/2468|
 ||세 용액|https://www.acmicpc.net/problem/2473|
