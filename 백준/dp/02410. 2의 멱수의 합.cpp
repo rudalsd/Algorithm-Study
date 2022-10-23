@@ -1,27 +1,25 @@
-#include <iostream>
+#include<iostream>
+#define M 1000000000
 
 using namespace std;
 
 int N;
-int dp[1000005];
+int dp[1000001];
 
-void go(int idx, int num) {
-    if (idx > N) {
-        return;
-    }
-    dp[idx] = (dp[idx] % 1000000000 + dp[idx - num] % 1000000000) % 1000000000;
-    go(idx + 1, num);
-}
+int main()
+{
+	scanf("%d", &N);
 
-int main(int argc, const char* argv[]) {
-    ios::sync_with_stdio();
-    cin.tie(NULL);
-    cout.tie(NULL);
-    cin >> N;
-    dp[0] = 1;
-    for (int i = 1; i <= N; i = i * 2) {
-        go(i, i);
-    }
-    cout << dp[N] % 1000000000 << "\n";
-    return 0;
+	dp[0] = 1;
+
+	for (int i = 0; i <= 20; i++) {
+		for (int j = 1; j <= N; j++) {
+			if ((j - (1 << i)) >= 0) {
+				dp[j] += dp[j - (1 << i)] % M;
+				dp[j] %= M;
+			}
+		}
+	}
+
+	printf("%d", dp[N]);
 }
