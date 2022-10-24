@@ -98,6 +98,7 @@
 ||사회망 서비스(SNS)|https://www.acmicpc.net/problem/2533|
 ||전깃줄 - 2|https://www.acmicpc.net/problem/2568|
 ||빙산|https://www.acmicpc.net/problem/2573|
+||계단 오르기|https://www.acmicpc.net/problem/2579|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
