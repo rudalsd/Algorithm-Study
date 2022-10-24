@@ -53,6 +53,7 @@
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||웜홀|https://www.acmicpc.net/problem/1865|
+||점프|https://www.acmicpc.net/problem/1890|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
 ||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
