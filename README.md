@@ -23,6 +23,7 @@
 ||파티|https://www.acmicpc.net/problem/1238|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||K번째 수|https://www.acmicpc.net/problem/1300|
+||동물원|https://www.acmicpc.net/problem/1309|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
