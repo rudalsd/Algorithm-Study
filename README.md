@@ -23,6 +23,7 @@
 ||파티|https://www.acmicpc.net/problem/1238|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||K번째 수|https://www.acmicpc.net/problem/1300|
+||동물원|https://www.acmicpc.net/problem/1309|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
@@ -53,19 +54,24 @@
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||웜홀|https://www.acmicpc.net/problem/1865|
+||점프|https://www.acmicpc.net/problem/1890|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
 ||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
 ||임계경로|https://www.acmicpc.net/problem/1948|
+||운동|https://www.acmicpc.net/problem/1956|
+||상자넣기|https://www.acmicpc.net/problem/1965|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
 ||알파벳|https://www.acmicpc.net/problem/1987|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
+||암호코드|https://www.acmicpc.net/problem/2011|
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
 ||구간 합 구하기|https://www.acmicpc.net/problem/2042|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||내려가기|https://www.acmicpc.net/problem/2096|
 ||외판원 순회|https://www.acmicpc.net/problem/2098|
+||타일 채우기|https://www.acmicpc.net/problem/2133|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||두 배열의 합|https://www.acmicpc.net/problem/2143|
 ||Strongly Connected Component|https://www.acmicpc.net/problem/2150|
@@ -74,6 +80,8 @@
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||로프|https://www.acmicpc.net/problem/2217|
+||합분해|https://www.acmicpc.net/problem/2225|
+||구간 나누기|https://www.acmicpc.net/problem/2228|
 ||성곽|https://www.acmicpc.net/problem/2234|
 ||스도쿠|https://www.acmicpc.net/problem/2239|
 ||자두나무|https://www.acmicpc.net/problem/2240|
@@ -82,21 +90,26 @@
 ||줄 세우기|https://www.acmicpc.net/problem/2252|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
+||극장 좌석|https://www.acmicpc.net/problem/2302|
 ||Dance Dance Revolution|https://www.acmicpc.net/problem/2342|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
 ||최솟값과 최댓값|https://www.acmicpc.net/problem/2357|
 ||조합|https://www.acmicpc.net/problem/2407|
+||2의 멱수의 합|https://www.acmicpc.net/problem/2410|
 ||용액|https://www.acmicpc.net/problem/2467|
 ||안전 영역|https://www.acmicpc.net/problem/2468|
 ||세 용액|https://www.acmicpc.net/problem/2473|
 ||사회망 서비스(SNS)|https://www.acmicpc.net/problem/2533|
 ||전깃줄 - 2|https://www.acmicpc.net/problem/2568|
 ||빙산|https://www.acmicpc.net/problem/2573|
+||계단 오르기|https://www.acmicpc.net/problem/2579|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
 ||경찰차|https://www.acmicpc.net/problem/2618|
 ||음악프로그램|https://www.acmicpc.net/problem/2623|
+||줄세우기|https://www.acmicpc.net/problem/2631|
+||치즈|https://www.acmicpc.net/problem/2636|
 ||치즈|https://www.acmicpc.net/problem/2638|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
@@ -108,10 +121,12 @@
 ||도로 네트워크|https://www.acmicpc.net/problem/3176|
 ||뱀|https://www.acmicpc.net/problem/3190|
 ||영화 수집|https://www.acmicpc.net/problem/3653|
+||Brainf**k 인터프리터|https://www.acmicpc.net/problem/3954|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||스타트링크|https://www.acmicpc.net/problem/5014|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||큐빙|https://www.acmicpc.net/problem/5373|
+||공통 부분 문자열|https://www.acmicpc.net/problem/5582|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
@@ -123,6 +138,7 @@
 ||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||열쇠|https://www.acmicpc.net/problem/9328|
+||파도반 수열|https://www.acmicpc.net/problem/9461|
 ||스티커|https://www.acmicpc.net/problem/9465|
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
@@ -173,6 +189,7 @@
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
+||벽 부수고 이동하기 2|https://www.acmicpc.net/problem/14442|
 ||주사위 굴리기|https://www.acmicpc.net/problem/14499|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
@@ -186,6 +203,7 @@
 ||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||개미|https://www.acmicpc.net/problem/14942|
+||퇴사 2|https://www.acmicpc.net/problem/15486|
 ||N과 M (4)|https://www.acmicpc.net/problem/15652|
 ||N과 M (5)|https://www.acmicpc.net/problem/15654|
 ||N과 M (12)|https://www.acmicpc.net/problem/15666|
@@ -224,6 +242,7 @@
 ||배열 돌리기 4|https://www.acmicpc.net/problem/17406|
 ||소수의 배수|https://www.acmicpc.net/problem/17436|
 ||게리맨더링|https://www.acmicpc.net/problem/17471|
+||다리 만들기 2|https://www.acmicpc.net/problem/17472|
 ||게리맨더링 2|https://www.acmicpc.net/problem/17779|
 ||원판 돌리기|https://www.acmicpc.net/problem/17822|
 ||주사위 윷놀이|https://www.acmicpc.net/problem/17825|
@@ -247,6 +266,7 @@
 ||주사위 굴리기 2|https://www.acmicpc.net/problem/23288|
 ||온풍기 안녕!|https://www.acmicpc.net/problem/23289|
 ||마법사 상어와 복제|https://www.acmicpc.net/problem/23290|
+||어항 정리|https://www.acmicpc.net/problem/23291|
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
