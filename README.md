@@ -90,6 +90,7 @@
 ||줄 세우기|https://www.acmicpc.net/problem/2252|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
+||극장 좌석|https://www.acmicpc.net/problem/2302|
 ||Dance Dance Revolution|https://www.acmicpc.net/problem/2342|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
 ||최솟값과 최댓값|https://www.acmicpc.net/problem/2357|
@@ -134,6 +135,7 @@
 ||공장|https://www.acmicpc.net/problem/7578|
 ||앱|https://www.acmicpc.net/problem/7579|
 ||이중 우선순위 큐|https://www.acmicpc.net/problem/7662|
+||맥주 마시면서 걸어가기|https://www.acmicpc.net/problem/9205|
 ||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||열쇠|https://www.acmicpc.net/problem/9328|
