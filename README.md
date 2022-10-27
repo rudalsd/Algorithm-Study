@@ -112,6 +112,7 @@
 ||치즈|https://www.acmicpc.net/problem/2636|
 ||치즈|https://www.acmicpc.net/problem/2638|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
+||벽장문의 이동|https://www.acmicpc.net/problem/2666|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
 ||수 정렬하기 2|https://www.acmicpc.net/problem/2751|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
