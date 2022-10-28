@@ -75,6 +75,7 @@
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||두 배열의 합|https://www.acmicpc.net/problem/2143|
 ||Strongly Connected Component|https://www.acmicpc.net/problem/2150|
+||여행|https://www.acmicpc.net/problem/2157|
 ||선분 그룹|https://www.acmicpc.net/problem/2162|
 ||미로 탐색|https://www.acmicpc.net/problem/2178|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
