@@ -83,6 +83,7 @@
 ||로프|https://www.acmicpc.net/problem/2217|
 ||합분해|https://www.acmicpc.net/problem/2225|
 ||구간 나누기|https://www.acmicpc.net/problem/2228|
+||조 짜기|https://www.acmicpc.net/problem/2229|
 ||성곽|https://www.acmicpc.net/problem/2234|
 ||스도쿠|https://www.acmicpc.net/problem/2239|
 ||자두나무|https://www.acmicpc.net/problem/2240|
