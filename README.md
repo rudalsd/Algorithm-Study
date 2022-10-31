@@ -35,6 +35,7 @@
 ||퍼즐|https://www.acmicpc.net/problem/1525|
 ||길의 개수|https://www.acmicpc.net/problem/1533|
 ||계단 수|https://www.acmicpc.net/problem/1562|
+||도로의 개수|https://www.acmicpc.net/problem/1577|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
@@ -75,6 +76,7 @@
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||두 배열의 합|https://www.acmicpc.net/problem/2143|
 ||Strongly Connected Component|https://www.acmicpc.net/problem/2150|
+||여행|https://www.acmicpc.net/problem/2157|
 ||선분 그룹|https://www.acmicpc.net/problem/2162|
 ||미로 탐색|https://www.acmicpc.net/problem/2178|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
@@ -82,6 +84,7 @@
 ||로프|https://www.acmicpc.net/problem/2217|
 ||합분해|https://www.acmicpc.net/problem/2225|
 ||구간 나누기|https://www.acmicpc.net/problem/2228|
+||조 짜기|https://www.acmicpc.net/problem/2229|
 ||성곽|https://www.acmicpc.net/problem/2234|
 ||스도쿠|https://www.acmicpc.net/problem/2239|
 ||자두나무|https://www.acmicpc.net/problem/2240|
