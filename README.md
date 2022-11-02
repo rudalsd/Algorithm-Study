@@ -91,6 +91,7 @@
 ||사탕상자|https://www.acmicpc.net/problem/2243|
 ||물통|https://www.acmicpc.net/problem/2251|
 ||줄 세우기|https://www.acmicpc.net/problem/2252|
+||점프|https://www.acmicpc.net/problem/2253|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||극장 좌석|https://www.acmicpc.net/problem/2302|
