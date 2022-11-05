@@ -35,6 +35,7 @@
 ||퍼즐|https://www.acmicpc.net/problem/1525|
 ||길의 개수|https://www.acmicpc.net/problem/1533|
 ||계단 수|https://www.acmicpc.net/problem/1562|
+||도로의 개수|https://www.acmicpc.net/problem/1577|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
@@ -78,6 +79,7 @@
 ||여행|https://www.acmicpc.net/problem/2157|
 ||선분 그룹|https://www.acmicpc.net/problem/2162|
 ||미로 탐색|https://www.acmicpc.net/problem/2178|
+||문자열 복사|https://www.acmicpc.net/problem/2195|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||로프|https://www.acmicpc.net/problem/2217|
@@ -90,6 +92,8 @@
 ||사탕상자|https://www.acmicpc.net/problem/2243|
 ||물통|https://www.acmicpc.net/problem/2251|
 ||줄 세우기|https://www.acmicpc.net/problem/2252|
+||점프|https://www.acmicpc.net/problem/2253|
+||데스노트|https://www.acmicpc.net/problem/2281|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||극장 좌석|https://www.acmicpc.net/problem/2302|
@@ -134,6 +138,7 @@
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
+||토마토|https://www.acmicpc.net/problem/7569|
 ||토마토|https://www.acmicpc.net/problem/7576|
 ||공장|https://www.acmicpc.net/problem/7578|
 ||앱|https://www.acmicpc.net/problem/7579|
@@ -190,6 +195,7 @@
 ||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
 ||숨바꼭질 3|https://www.acmicpc.net/problem/13549|
 ||이항 계수와 쿼리|https://www.acmicpc.net/problem/13977|
+||가장 긴 증가하는 부분 수열 4|https://www.acmicpc.net/problem/14002|
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
