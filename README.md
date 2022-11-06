@@ -188,6 +188,7 @@
 ||본대 산책2|https://www.acmicpc.net/problem/12850|
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||평범한 배낭|https://www.acmicpc.net/problem/12865|
+||돌 그룹|https://www.acmicpc.net/problem/12886|
 ||Ignition|https://www.acmicpc.net/problem/13141|
 ||철로|https://www.acmicpc.net/problem/13334|
 ||시험 감독|https://www.acmicpc.net/problem/13458|
