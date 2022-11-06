@@ -63,6 +63,7 @@
 ||운동|https://www.acmicpc.net/problem/1956|
 ||상자넣기|https://www.acmicpc.net/problem/1965|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
+||여행 가자|https://www.acmicpc.net/problem/1976|
 ||알파벳|https://www.acmicpc.net/problem/1987|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
