@@ -63,6 +63,7 @@
 ||운동|https://www.acmicpc.net/problem/1956|
 ||상자넣기|https://www.acmicpc.net/problem/1965|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
+||여행 가자|https://www.acmicpc.net/problem/1976|
 ||알파벳|https://www.acmicpc.net/problem/1987|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
@@ -93,6 +94,7 @@
 ||물통|https://www.acmicpc.net/problem/2251|
 ||줄 세우기|https://www.acmicpc.net/problem/2252|
 ||점프|https://www.acmicpc.net/problem/2253|
+||데스노트|https://www.acmicpc.net/problem/2281|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||극장 좌석|https://www.acmicpc.net/problem/2302|
@@ -187,6 +189,7 @@
 ||본대 산책2|https://www.acmicpc.net/problem/12850|
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||평범한 배낭|https://www.acmicpc.net/problem/12865|
+||돌 그룹|https://www.acmicpc.net/problem/12886|
 ||Ignition|https://www.acmicpc.net/problem/13141|
 ||철로|https://www.acmicpc.net/problem/13334|
 ||시험 감독|https://www.acmicpc.net/problem/13458|
