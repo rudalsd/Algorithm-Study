@@ -241,6 +241,7 @@
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||뱀과 사다리 게임|https://www.acmicpc.net/problem/16928|
+||벽 부수고 이동하기 3|https://www.acmicpc.net/problem/16933|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||파이프 옮기기 1|https://www.acmicpc.net/problem/17070|
