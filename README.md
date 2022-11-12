@@ -63,6 +63,7 @@
 ||운동|https://www.acmicpc.net/problem/1956|
 ||상자넣기|https://www.acmicpc.net/problem/1965|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
+||여행 가자|https://www.acmicpc.net/problem/1976|
 ||알파벳|https://www.acmicpc.net/problem/1987|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
@@ -143,6 +144,7 @@
 ||공장|https://www.acmicpc.net/problem/7578|
 ||앱|https://www.acmicpc.net/problem/7579|
 ||이중 우선순위 큐|https://www.acmicpc.net/problem/7662|
+||틱택토|https://www.acmicpc.net/problem/7682|
 ||맥주 마시면서 걸어가기|https://www.acmicpc.net/problem/9205|
 ||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
@@ -182,6 +184,7 @@
 ||2×n 타일링|https://www.acmicpc.net/problem/11726|
 ||2×n 타일링 2|https://www.acmicpc.net/problem/11727|
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
+||CCW|https://www.acmicpc.net/problem/11758|
 ||최소비용 구하기 2|https://www.acmicpc.net/problem/11779|
 ||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
 ||2048 (Easy)|https://www.acmicpc.net/problem/12100|
@@ -195,6 +198,7 @@
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
 ||숨바꼭질 3|https://www.acmicpc.net/problem/13549|
+||숨바꼭질 4|https://www.acmicpc.net/problem/13913|
 ||이항 계수와 쿼리|https://www.acmicpc.net/problem/13977|
 ||가장 긴 증가하는 부분 수열 4|https://www.acmicpc.net/problem/14002|
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
@@ -218,6 +222,7 @@
 ||N과 M (4)|https://www.acmicpc.net/problem/15652|
 ||N과 M (5)|https://www.acmicpc.net/problem/15654|
 ||N과 M (12)|https://www.acmicpc.net/problem/15666|
+||트리와 쿼리|https://www.acmicpc.net/problem/15681|
 ||감시|https://www.acmicpc.net/problem/15683|
 ||사다리 조작|https://www.acmicpc.net/problem/15684|
 ||드래곤 커브|https://www.acmicpc.net/problem/15685|
@@ -236,6 +241,7 @@
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||뱀과 사다리 게임|https://www.acmicpc.net/problem/16928|
+||벽 부수고 이동하기 3|https://www.acmicpc.net/problem/16933|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||파이프 옮기기 1|https://www.acmicpc.net/problem/17070|
