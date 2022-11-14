@@ -128,12 +128,14 @@
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
 ||도로 네트워크|https://www.acmicpc.net/problem/3176|
 ||뱀|https://www.acmicpc.net/problem/3190|
+||가장 가까운 공통 조상|https://www.acmicpc.net/problem/3584|
 ||영화 수집|https://www.acmicpc.net/problem/3653|
 ||Brainf**k 인터프리터|https://www.acmicpc.net/problem/3954|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||스타트링크|https://www.acmicpc.net/problem/5014|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||큐빙|https://www.acmicpc.net/problem/5373|
+||저택|https://www.acmicpc.net/problem/5529|
 ||공통 부분 문자열|https://www.acmicpc.net/problem/5582|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
@@ -241,6 +243,7 @@
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||뱀과 사다리 게임|https://www.acmicpc.net/problem/16928|
+||벽 부수고 이동하기 3|https://www.acmicpc.net/problem/16933|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||파이프 옮기기 1|https://www.acmicpc.net/problem/17070|
