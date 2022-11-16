@@ -17,6 +17,7 @@
 ||리모컨|https://www.acmicpc.net/problem/1107|
 ||RGB거리|https://www.acmicpc.net/problem/1149|
 ||트리의 지름|https://www.acmicpc.net/problem/1167|
+||우주신과의 교감|https://www.acmicpc.net/problem/1774|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
 ||보석 도둑|https://www.acmicpc.net/problem/1202|
 ||부분수열의 합 2|https://www.acmicpc.net/problem/1208|
@@ -48,6 +49,7 @@
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||정점들의 거리|https://www.acmicpc.net/problem/1761|
 ||문제집|https://www.acmicpc.net/problem/1766|
+||우주신과의 교감|https://www.acmicpc.net/problem/1774|
 ||종이의 개수|https://www.acmicpc.net/problem/1780|
 ||찾기|https://www.acmicpc.net/problem/1786|
 ||비숍|https://www.acmicpc.net/problem/1799|
@@ -128,6 +130,7 @@
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
 ||도로 네트워크|https://www.acmicpc.net/problem/3176|
 ||뱀|https://www.acmicpc.net/problem/3190|
+||가장 가까운 공통 조상|https://www.acmicpc.net/problem/3584|
 ||영화 수집|https://www.acmicpc.net/problem/3653|
 ||Brainf**k 인터프리터|https://www.acmicpc.net/problem/3954|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
@@ -157,6 +160,7 @@
 ||N-Queen|https://www.acmicpc.net/problem/9663|
 ||문자열 폭발|https://www.acmicpc.net/problem/9935|
 ||적록색약|https://www.acmicpc.net/problem/10026|
+||해킹|https://www.acmicpc.net/problem/10282|
 ||공항|https://www.acmicpc.net/problem/10775|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||행렬 제곱|https://www.acmicpc.net/problem/10830|
