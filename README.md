@@ -258,6 +258,7 @@
 ||미세먼지 안녕!|https://www.acmicpc.net/problem/17144|
 ||⚾|https://www.acmicpc.net/problem/17281|
 ||이사|https://www.acmicpc.net/problem/17371|
+||선분 교차 1|https://www.acmicpc.net/problem/17386|
 ||선분 교차 2|https://www.acmicpc.net/problem/17387|
 ||일하는 세포|https://www.acmicpc.net/problem/17401|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
