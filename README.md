@@ -17,6 +17,7 @@
 ||리모컨|https://www.acmicpc.net/problem/1107|
 ||RGB거리|https://www.acmicpc.net/problem/1149|
 ||트리의 지름|https://www.acmicpc.net/problem/1167|
+||우주신과의 교감|https://www.acmicpc.net/problem/1774|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
 ||보석 도둑|https://www.acmicpc.net/problem/1202|
 ||부분수열의 합 2|https://www.acmicpc.net/problem/1208|
@@ -48,6 +49,7 @@
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||정점들의 거리|https://www.acmicpc.net/problem/1761|
 ||문제집|https://www.acmicpc.net/problem/1766|
+||우주신과의 교감|https://www.acmicpc.net/problem/1774|
 ||종이의 개수|https://www.acmicpc.net/problem/1780|
 ||찾기|https://www.acmicpc.net/problem/1786|
 ||비숍|https://www.acmicpc.net/problem/1799|
@@ -256,6 +258,7 @@
 ||미세먼지 안녕!|https://www.acmicpc.net/problem/17144|
 ||⚾|https://www.acmicpc.net/problem/17281|
 ||이사|https://www.acmicpc.net/problem/17371|
+||선분 교차 1|https://www.acmicpc.net/problem/17386|
 ||선분 교차 2|https://www.acmicpc.net/problem/17387|
 ||일하는 세포|https://www.acmicpc.net/problem/17401|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
