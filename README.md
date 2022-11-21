@@ -228,6 +228,7 @@
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||개미|https://www.acmicpc.net/problem/14942|
 ||퇴사 2|https://www.acmicpc.net/problem/15486|
+||MooTube (Silver)|https://www.acmicpc.net/problem/15591|
 ||N과 M (4)|https://www.acmicpc.net/problem/15652|
 ||N과 M (5)|https://www.acmicpc.net/problem/15654|
 ||N과 M (12)|https://www.acmicpc.net/problem/15666|
