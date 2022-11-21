@@ -79,6 +79,7 @@
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||두 배열의 합|https://www.acmicpc.net/problem/2143|
 ||Strongly Connected Component|https://www.acmicpc.net/problem/2150|
+||거울 설치|https://www.acmicpc.net/problem/2151|
 ||여행|https://www.acmicpc.net/problem/2157|
 ||선분 그룹|https://www.acmicpc.net/problem/2162|
 ||미로 탐색|https://www.acmicpc.net/problem/2178|
@@ -134,6 +135,8 @@
 ||영화 수집|https://www.acmicpc.net/problem/3653|
 ||Brainf**k 인터프리터|https://www.acmicpc.net/problem/3954|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
+||녹색 옷 입은 애가 젤다지?|https://www.acmicpc.net/problem/4485|
+||로봇 청소기|https://www.acmicpc.net/problem/4991|
 ||스타트링크|https://www.acmicpc.net/problem/5014|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||큐빙|https://www.acmicpc.net/problem/5373|
@@ -141,6 +144,7 @@
 ||공통 부분 문자열|https://www.acmicpc.net/problem/5582|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
+||레이저 통신|https://www.acmicpc.net/problem/6087|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||토마토|https://www.acmicpc.net/problem/7569|
