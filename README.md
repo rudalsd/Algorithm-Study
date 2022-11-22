@@ -261,6 +261,7 @@
 ||연구소 3|https://www.acmicpc.net/problem/17142|
 ||낚시왕|https://www.acmicpc.net/problem/17143|
 ||미세먼지 안녕!|https://www.acmicpc.net/problem/17144|
+||우주 탐사선|https://www.acmicpc.net/problem/17182|
 ||⚾|https://www.acmicpc.net/problem/17281|
 ||이사|https://www.acmicpc.net/problem/17371|
 ||선분 교차 1|https://www.acmicpc.net/problem/17386|
