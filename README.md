@@ -110,6 +110,7 @@
 ||안전 영역|https://www.acmicpc.net/problem/2468|
 ||세 용액|https://www.acmicpc.net/problem/2473|
 ||사회망 서비스(SNS)|https://www.acmicpc.net/problem/2533|
+||전구|https://www.acmicpc.net/problem/2550|
 ||전깃줄 - 2|https://www.acmicpc.net/problem/2568|
 ||빙산|https://www.acmicpc.net/problem/2573|
 ||계단 오르기|https://www.acmicpc.net/problem/2579|
