@@ -41,6 +41,7 @@
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
+||멍멍이 쓰다듬기|https://www.acmicpc.net/problem/1669|
 ||크로스워드|https://www.acmicpc.net/problem/1706|
 ||볼록 껍질|https://www.acmicpc.net/problem/1708|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
