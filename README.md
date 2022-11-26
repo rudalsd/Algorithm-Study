@@ -11,6 +11,7 @@
 ||유기농 배추|https://www.acmicpc.net/problem/1012|
 ||책 페이지|https://www.acmicpc.net/problem/1019|
 ||보물|https://www.acmicpc.net/problem/1026|
+||교환|https://www.acmicpc.net/problem/1039|
 ||기타줄|https://www.acmicpc.net/problem/1049|
 ||박성원|https://www.acmicpc.net/problem/1086|
 ||게임|https://www.acmicpc.net/problem/1103|
