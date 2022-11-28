@@ -11,6 +11,7 @@
 ||유기농 배추|https://www.acmicpc.net/problem/1012|
 ||책 페이지|https://www.acmicpc.net/problem/1019|
 ||보물|https://www.acmicpc.net/problem/1026|
+||교환|https://www.acmicpc.net/problem/1039|
 ||기타줄|https://www.acmicpc.net/problem/1049|
 ||박성원|https://www.acmicpc.net/problem/1086|
 ||게임|https://www.acmicpc.net/problem/1103|
@@ -41,6 +42,7 @@
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
+||멍멍이 쓰다듬기|https://www.acmicpc.net/problem/1669|
 ||크로스워드|https://www.acmicpc.net/problem/1706|
 ||볼록 껍질|https://www.acmicpc.net/problem/1708|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
@@ -216,6 +218,7 @@
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
 ||벽 부수고 이동하기 2|https://www.acmicpc.net/problem/14442|
+||소가 길을 건너간 이유 6|https://www.acmicpc.net/problem/14466|
 ||주사위 굴리기|https://www.acmicpc.net/problem/14499|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
