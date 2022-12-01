@@ -150,6 +150,7 @@
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||레이저 통신|https://www.acmicpc.net/problem/6087|
+||핑크 플로이드|https://www.acmicpc.net/problem/6091|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||토마토|https://www.acmicpc.net/problem/7569|
