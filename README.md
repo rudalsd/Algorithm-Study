@@ -39,6 +39,7 @@
 ||길의 개수|https://www.acmicpc.net/problem/1533|
 ||계단 수|https://www.acmicpc.net/problem/1562|
 ||도로의 개수|https://www.acmicpc.net/problem/1577|
+||말이 되고픈 원숭이|https://www.acmicpc.net/problem/1600|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
@@ -253,6 +254,7 @@
 ||나무 재테크|https://www.acmicpc.net/problem/16235|
 ||아기 상어|https://www.acmicpc.net/problem/16236|
 ||Parcel|https://www.acmicpc.net/problem/16287|
+||Lost Map|https://www.acmicpc.net/problem/16393|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||N포커|https://www.acmicpc.net/problem/16565|
 ||카드 게임|https://www.acmicpc.net/problem/16566|
