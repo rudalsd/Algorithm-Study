@@ -50,6 +50,7 @@
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||히스토그램|https://www.acmicpc.net/problem/1725|
+||로봇|https://www.acmicpc.net/problem/1726|
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||정점들의 거리|https://www.acmicpc.net/problem/1761|
 ||문제집|https://www.acmicpc.net/problem/1766|
