@@ -39,6 +39,7 @@
 ||길의 개수|https://www.acmicpc.net/problem/1533|
 ||계단 수|https://www.acmicpc.net/problem/1562|
 ||도로의 개수|https://www.acmicpc.net/problem/1577|
+||말이 되고픈 원숭이|https://www.acmicpc.net/problem/1600|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
@@ -49,6 +50,7 @@
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
 ||히스토그램|https://www.acmicpc.net/problem/1725|
+||로봇|https://www.acmicpc.net/problem/1726|
 ||최단경로|https://www.acmicpc.net/problem/1753|
 ||정점들의 거리|https://www.acmicpc.net/problem/1761|
 ||문제집|https://www.acmicpc.net/problem/1766|
@@ -126,9 +128,11 @@
 ||치즈|https://www.acmicpc.net/problem/2636|
 ||치즈|https://www.acmicpc.net/problem/2638|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
+||미로만들기|https://www.acmicpc.net/problem/2665|
 ||벽장문의 이동|https://www.acmicpc.net/problem/2666|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
 ||수 정렬하기 2|https://www.acmicpc.net/problem/2751|
+||크게 만들기|https://www.acmicpc.net/problem/2812|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
@@ -160,6 +164,7 @@
 ||앱|https://www.acmicpc.net/problem/7579|
 ||이중 우선순위 큐|https://www.acmicpc.net/problem/7662|
 ||틱택토|https://www.acmicpc.net/problem/7682|
+||DSLR|https://www.acmicpc.net/problem/9019|
 ||맥주 마시면서 걸어가기|https://www.acmicpc.net/problem/9205|
 ||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
@@ -307,6 +312,7 @@
 ||온풍기 안녕!|https://www.acmicpc.net/problem/23289|
 ||마법사 상어와 복제|https://www.acmicpc.net/problem/23290|
 ||어항 정리|https://www.acmicpc.net/problem/23291|
+||횡단보도https://www.acmicpc.net/problem/24042||
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
