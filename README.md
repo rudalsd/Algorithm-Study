@@ -132,6 +132,7 @@
 ||벽장문의 이동|https://www.acmicpc.net/problem/2666|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
 ||수 정렬하기 2|https://www.acmicpc.net/problem/2751|
+||크게 만들기|https://www.acmicpc.net/problem/2812|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
@@ -258,6 +259,7 @@
 ||아기 상어|https://www.acmicpc.net/problem/16236|
 ||Parcel|https://www.acmicpc.net/problem/16287|
 ||Lost Map|https://www.acmicpc.net/problem/16393|
+||탈출|https://www.acmicpc.net/problem/16397|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||N포커|https://www.acmicpc.net/problem/16565|
 ||카드 게임|https://www.acmicpc.net/problem/16566|
