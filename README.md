@@ -231,6 +231,7 @@
 ||가장 긴 증가하는 부분 수열 4|https://www.acmicpc.net/problem/14002|
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
+||4연산|https://www.acmicpc.net/problem/14395|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
 ||벽 부수고 이동하기 2|https://www.acmicpc.net/problem/14442|
 ||소가 길을 건너간 이유 6|https://www.acmicpc.net/problem/14466|
