@@ -323,6 +323,7 @@
 ||온풍기 안녕!|https://www.acmicpc.net/problem/23289|
 ||마법사 상어와 복제|https://www.acmicpc.net/problem/23290|
 ||어항 정리|https://www.acmicpc.net/problem/23291|
+||두 단계 최단 경로 1|https://www.acmicpc.net/problem/23793|
 ||횡단보도https://www.acmicpc.net/problem/24042||
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||||
