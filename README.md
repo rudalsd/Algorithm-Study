@@ -106,6 +106,7 @@
 ||물통|https://www.acmicpc.net/problem/2251|
 ||줄 세우기|https://www.acmicpc.net/problem/2252|
 ||점프|https://www.acmicpc.net/problem/2253|
+||수들의 합 7|https://www.acmicpc.net/problem/2268|
 ||데스노트|https://www.acmicpc.net/problem/2281|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
