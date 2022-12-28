@@ -238,6 +238,7 @@
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||4연산|https://www.acmicpc.net/problem/14395|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
+||수열과 쿼리 17|https://www.acmicpc.net/problem/14438|
 ||벽 부수고 이동하기 2|https://www.acmicpc.net/problem/14442|
 ||소가 길을 건너간 이유 6|https://www.acmicpc.net/problem/14466|
 ||주사위 굴리기|https://www.acmicpc.net/problem/14499|
