@@ -190,6 +190,7 @@
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||행렬 제곱|https://www.acmicpc.net/problem/10830|
 ||쉬운 계단 수|https://www.acmicpc.net/problem/10844|
+||최솟값|https://www.acmicpc.net/problem/10868|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||수 정렬하기 3|https://www.acmicpc.net/problem/10989|
 ||동전 0|https://www.acmicpc.net/problem/11047|
