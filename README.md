@@ -19,12 +19,12 @@
 ||리모컨|https://www.acmicpc.net/problem/1107|
 ||RGB거리|https://www.acmicpc.net/problem/1149|
 ||트리의 지름|https://www.acmicpc.net/problem/1167|
-||우주신과의 교감|https://www.acmicpc.net/problem/1774|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
 ||보석 도둑|https://www.acmicpc.net/problem/1202|
 ||부분수열의 합 2|https://www.acmicpc.net/problem/1208|
 ||파티|https://www.acmicpc.net/problem/1238|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
+||커피숍2|https://www.acmicpc.net/problem/1275|
 ||K번째 수|https://www.acmicpc.net/problem/1300|
 ||동물원|https://www.acmicpc.net/problem/1309|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
