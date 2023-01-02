@@ -118,6 +118,7 @@
 ||2의 멱수의 합|https://www.acmicpc.net/problem/2410|
 ||용액|https://www.acmicpc.net/problem/2467|
 ||안전 영역|https://www.acmicpc.net/problem/2468|
+||두 용액|https://www.acmicpc.net/problem/2470|
 ||세 용액|https://www.acmicpc.net/problem/2473|
 ||사회망 서비스(SNS)|https://www.acmicpc.net/problem/2533|
 ||전구|https://www.acmicpc.net/problem/2550|
