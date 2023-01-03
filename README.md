@@ -238,6 +238,7 @@
 ||이항 계수와 쿼리|https://www.acmicpc.net/problem/13977|
 ||가장 긴 증가하는 부분 수열 4|https://www.acmicpc.net/problem/14002|
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
+||이모티콘|https://www.acmicpc.net/problem/14226|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||4연산|https://www.acmicpc.net/problem/14395|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
