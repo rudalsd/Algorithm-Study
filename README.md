@@ -277,6 +277,7 @@
 ||Lost Map|https://www.acmicpc.net/problem/16393|
 ||탈출|https://www.acmicpc.net/problem/16397|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
+||친구비|https://www.acmicpc.net/problem/16562|
 ||N포커|https://www.acmicpc.net/problem/16565|
 ||카드 게임|https://www.acmicpc.net/problem/16566|
 ||괄호 추가하기|https://www.acmicpc.net/problem/16637|
