@@ -243,6 +243,7 @@
 ||이모티콘|https://www.acmicpc.net/problem/14226|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||4연산|https://www.acmicpc.net/problem/14395|
+||수열과 쿼리 15|https://www.acmicpc.net/problem/14427|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
 ||수열과 쿼리 17|https://www.acmicpc.net/problem/14438|
 ||벽 부수고 이동하기 2|https://www.acmicpc.net/problem/14442|
