@@ -319,6 +319,7 @@
 ||새로운 게임 2|https://www.acmicpc.net/problem/17837|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
+||수열과 쿼리 37|https://www.acmicpc.net/problem/18436|
 ||청소년 상어|https://www.acmicpc.net/problem/19236|
 ||어른 상어|https://www.acmicpc.net/problem/19237|
 ||스타트 택시|https://www.acmicpc.net/problem/19238|
