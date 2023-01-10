@@ -162,6 +162,7 @@
 ||저택|https://www.acmicpc.net/problem/5529|
 ||공통 부분 문자열|https://www.acmicpc.net/problem/5582|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
+||음주 코딩|https://www.acmicpc.net/problem/5676|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||레이저 통신|https://www.acmicpc.net/problem/6087|
 ||핑크 플로이드|https://www.acmicpc.net/problem/6091|
