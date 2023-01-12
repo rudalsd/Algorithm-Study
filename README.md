@@ -196,6 +196,7 @@
 ||최솟값|https://www.acmicpc.net/problem/10868|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||수 정렬하기 3|https://www.acmicpc.net/problem/10989|
+||구간 합 구하기 2|https://www.acmicpc.net/problem/10999|
 ||동전 0|https://www.acmicpc.net/problem/11047|
 ||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
