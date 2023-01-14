@@ -57,6 +57,7 @@
 ||정점들의 거리|https://www.acmicpc.net/problem/1761|
 ||문제집|https://www.acmicpc.net/problem/1766|
 ||우주신과의 교감|https://www.acmicpc.net/problem/1774|
+||순열복원|https://www.acmicpc.net/problem/1777|
 ||종이의 개수|https://www.acmicpc.net/problem/1780|
 ||찾기|https://www.acmicpc.net/problem/1786|
 ||비숍|https://www.acmicpc.net/problem/1799|
