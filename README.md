@@ -190,6 +190,7 @@
 ||N-Queen|https://www.acmicpc.net/problem/9663|
 ||문자열 폭발|https://www.acmicpc.net/problem/9935|
 ||적록색약|https://www.acmicpc.net/problem/10026|
+||Counting Inversions|https://www.acmicpc.net/problem/10090|
 ||저울|https://www.acmicpc.net/problem/10159|
 ||해킹|https://www.acmicpc.net/problem/10282|
 ||공항|https://www.acmicpc.net/problem/10775|
