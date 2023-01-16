@@ -41,6 +41,7 @@
 ||계단 수|https://www.acmicpc.net/problem/1562|
 ||도로의 개수|https://www.acmicpc.net/problem/1577|
 ||말이 되고픈 원숭이|https://www.acmicpc.net/problem/1600|
+||교차개수세기|https://www.acmicpc.net/problem/1615|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
 ||도시 분할 계획|https://www.acmicpc.net/problem/1647|
