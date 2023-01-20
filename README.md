@@ -267,6 +267,7 @@
 ||스타트와 링크|https://www.acmicpc.net/problem/14889|
 ||경사로|https://www.acmicpc.net/problem/14890|
 ||톱니바퀴|https://www.acmicpc.net/problem/14891|
+||미로 탈출|https://www.acmicpc.net/problem/14923|
 ||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||개미|https://www.acmicpc.net/problem/14942|
