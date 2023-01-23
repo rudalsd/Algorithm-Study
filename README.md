@@ -239,6 +239,7 @@
 ||돌 그룹|https://www.acmicpc.net/problem/12886|
 ||Ignition|https://www.acmicpc.net/problem/13141|
 ||철로|https://www.acmicpc.net/problem/13334|
+||학교 탐방하기|https://www.acmicpc.net/problem/13418|
 ||시험 감독|https://www.acmicpc.net/problem/13458|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
