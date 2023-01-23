@@ -164,6 +164,7 @@
 ||큐빙|https://www.acmicpc.net/problem/5373|
 ||불|https://www.acmicpc.net/problem/5427|
 ||저택|https://www.acmicpc.net/problem/5529|
+||チーズ (Cheese)|https://www.acmicpc.net/problem/5558|
 ||공통 부분 문자열|https://www.acmicpc.net/problem/5582|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||음주 코딩|https://www.acmicpc.net/problem/5676|
@@ -267,6 +268,7 @@
 ||스타트와 링크|https://www.acmicpc.net/problem/14889|
 ||경사로|https://www.acmicpc.net/problem/14890|
 ||톱니바퀴|https://www.acmicpc.net/problem/14891|
+||미로 탈출|https://www.acmicpc.net/problem/14923|
 ||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||개미|https://www.acmicpc.net/problem/14942|
@@ -289,6 +291,7 @@
 ||Parcel|https://www.acmicpc.net/problem/16287|
 ||Lost Map|https://www.acmicpc.net/problem/16393|
 ||탈출|https://www.acmicpc.net/problem/16397|
+||행성 연결|https://www.acmicpc.net/problem/16398|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||친구비|https://www.acmicpc.net/problem/16562|
 ||N포커|https://www.acmicpc.net/problem/16565|
@@ -303,6 +306,7 @@
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||수열과 쿼리 21|https://www.acmicpc.net/problem/16975|
 ||파이프 옮기기 1|https://www.acmicpc.net/problem/17070|
+||미로 탈출하기|https://www.acmicpc.net/problem/17090|
 ||캐슬 디펜스|https://www.acmicpc.net/problem/17135|
 ||색종이 붙이기|https://www.acmicpc.net/problem/17136|
 ||이차원 배열과 연산|https://www.acmicpc.net/problem/17140|
