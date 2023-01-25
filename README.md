@@ -41,6 +41,7 @@
 ||길의 개수|https://www.acmicpc.net/problem/1533|
 ||계단 수|https://www.acmicpc.net/problem/1562|
 ||도로의 개수|https://www.acmicpc.net/problem/1577|
+||게임|https://www.acmicpc.net/problem/1584|
 ||말이 되고픈 원숭이|https://www.acmicpc.net/problem/1600|
 ||교차개수세기|https://www.acmicpc.net/problem/1615|
 ||곱셈|https://www.acmicpc.net/problem/1629|
