@@ -199,6 +199,7 @@
 ||Counting Inversions|https://www.acmicpc.net/problem/10090|
 ||저울|https://www.acmicpc.net/problem/10159|
 ||해킹|https://www.acmicpc.net/problem/10282|
+||전기가 부족해|https://www.acmicpc.net/problem/10423|
 ||공항|https://www.acmicpc.net/problem/10775|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||행렬 제곱|https://www.acmicpc.net/problem/10830|
