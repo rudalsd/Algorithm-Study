@@ -25,6 +25,7 @@
 ||부분수열의 합 2|https://www.acmicpc.net/problem/1208|
 ||파티|https://www.acmicpc.net/problem/1238|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
+||알고스팟|https://www.acmicpc.net/problem/1261|
 ||커피숍2|https://www.acmicpc.net/problem/1275|
 ||K번째 수|https://www.acmicpc.net/problem/1300|
 ||동물원|https://www.acmicpc.net/problem/1309|
