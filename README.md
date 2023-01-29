@@ -31,6 +31,7 @@
 ||동물원|https://www.acmicpc.net/problem/1309|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
 ||꼬인 전깃줄|https://www.acmicpc.net/problem/1365|
+||물대기|https://www.acmicpc.net/problem/1368|
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
