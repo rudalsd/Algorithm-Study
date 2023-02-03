@@ -143,6 +143,7 @@
 ||음악프로그램|https://www.acmicpc.net/problem/2623|
 ||줄세우기|https://www.acmicpc.net/problem/2631|
 ||치즈|https://www.acmicpc.net/problem/2636|
+||장난감 조립|https://www.acmicpc.net/problem/2637|
 ||치즈|https://www.acmicpc.net/problem/2638|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
 ||미로만들기|https://www.acmicpc.net/problem/2665|
