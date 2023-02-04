@@ -342,6 +342,7 @@
 ||원판 돌리기|https://www.acmicpc.net/problem/17822|
 ||주사위 윷놀이|https://www.acmicpc.net/problem/17825|
 ||면접보는 승범이네|https://www.acmicpc.net/problem/17835|
+||공주님을 구해라!|https://www.acmicpc.net/problem/17836|
 ||새로운 게임 2|https://www.acmicpc.net/problem/17837|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
