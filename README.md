@@ -184,6 +184,7 @@
 ||상범 빌딩|https://www.acmicpc.net/problem/6593|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||토마토|https://www.acmicpc.net/problem/7569|
+||줄 세우기|https://www.acmicpc.net/problem/7570|
 ||토마토|https://www.acmicpc.net/problem/7576|
 ||공장|https://www.acmicpc.net/problem/7578|
 ||앱|https://www.acmicpc.net/problem/7579|
