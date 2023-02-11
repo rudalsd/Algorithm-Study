@@ -78,6 +78,7 @@
 ||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
 ||욕심쟁이 판다|https://www.acmicpc.net/problem/1937|
+||복제 로봇|https://www.acmicpc.net/problem/1944|
 ||임계경로|https://www.acmicpc.net/problem/1948|
 ||운동|https://www.acmicpc.net/problem/1956|
 ||상자넣기|https://www.acmicpc.net/problem/1965|
