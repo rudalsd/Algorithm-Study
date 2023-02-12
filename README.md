@@ -298,6 +298,7 @@
 ||어른 상어|https://www.acmicpc.net/problem/19237|
 ||스타트 택시|https://www.acmicpc.net/problem/19238|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
+||악덕 영주 혜유|https://www.acmicpc.net/problem/20010|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
 ||컨베이어 벨트 위의 로봇|https://www.acmicpc.net/problem/20055|
 ||마법사 상어와 파이어볼|https://www.acmicpc.net/problem/20056|
