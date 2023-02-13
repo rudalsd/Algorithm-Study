@@ -90,6 +90,7 @@
 ||암호코드|https://www.acmicpc.net/problem/2011|
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
 ||구간 합 구하기|https://www.acmicpc.net/problem/2042|
+||작업|https://www.acmicpc.net/problem/2056|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||내려가기|https://www.acmicpc.net/problem/2096|
 ||외판원 순회|https://www.acmicpc.net/problem/2098|
