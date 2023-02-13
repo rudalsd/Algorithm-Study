@@ -124,6 +124,7 @@
 ||Dance Dance Revolution|https://www.acmicpc.net/problem/2342|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
 ||최솟값과 최댓값|https://www.acmicpc.net/problem/2357|
+||안정적인 네트워크|https://www.acmicpc.net/problem/2406|
 ||조합|https://www.acmicpc.net/problem/2407|
 ||2의 멱수의 합|https://www.acmicpc.net/problem/2410|
 ||키 순서|https://www.acmicpc.net/problem/2458|
