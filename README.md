@@ -184,6 +184,7 @@
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||레이저 통신|https://www.acmicpc.net/problem/6087|
 ||핑크 플로이드|https://www.acmicpc.net/problem/6091|
+||전력난|https://www.acmicpc.net/problem/6497|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
 ||상범 빌딩|https://www.acmicpc.net/problem/6593|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
