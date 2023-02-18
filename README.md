@@ -46,6 +46,7 @@
 ||도로의 개수|https://www.acmicpc.net/problem/1577|
 ||게임|https://www.acmicpc.net/problem/1584|
 ||말이 되고픈 원숭이|https://www.acmicpc.net/problem/1600|
+||역사|https://www.acmicpc.net/problem/1613|
 ||교차개수세기|https://www.acmicpc.net/problem/1615|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
