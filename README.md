@@ -348,6 +348,7 @@
 ||공주님을 구해라!|https://www.acmicpc.net/problem/17836|
 ||새로운 게임 2|https://www.acmicpc.net/problem/17837|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
+||경쟁적 전염|https://www.acmicpc.net/problem/18405|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
 ||수열과 쿼리 37|https://www.acmicpc.net/problem/18436|
 ||청소년 상어|https://www.acmicpc.net/problem/19236|
