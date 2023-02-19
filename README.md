@@ -18,6 +18,7 @@
 ||게임|https://www.acmicpc.net/problem/1103|
 ||리모컨|https://www.acmicpc.net/problem/1107|
 ||RGB거리|https://www.acmicpc.net/problem/1149|
+||도로포장|https://www.acmicpc.net/problem/1162|
 ||트리의 지름|https://www.acmicpc.net/problem/1167|
 ||배달|https://www.acmicpc.net/problem/1175|
 ||유럽여행|https://www.acmicpc.net/problem/1185|
@@ -45,6 +46,7 @@
 ||도로의 개수|https://www.acmicpc.net/problem/1577|
 ||게임|https://www.acmicpc.net/problem/1584|
 ||말이 되고픈 원숭이|https://www.acmicpc.net/problem/1600|
+||역사|https://www.acmicpc.net/problem/1613|
 ||교차개수세기|https://www.acmicpc.net/problem/1615|
 ||곱셈|https://www.acmicpc.net/problem/1629|
 ||소수의 연속합|https://www.acmicpc.net/problem/1644|
@@ -77,6 +79,8 @@
 ||네트워크 연결|https://www.acmicpc.net/problem/1922|
 ||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
+||욕심쟁이 판다|https://www.acmicpc.net/problem/1937|
+||복제 로봇|https://www.acmicpc.net/problem/1944|
 ||임계경로|https://www.acmicpc.net/problem/1948|
 ||운동|https://www.acmicpc.net/problem/1956|
 ||상자넣기|https://www.acmicpc.net/problem/1965|
@@ -88,6 +92,7 @@
 ||암호코드|https://www.acmicpc.net/problem/2011|
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
 ||구간 합 구하기|https://www.acmicpc.net/problem/2042|
+||작업|https://www.acmicpc.net/problem/2056|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||내려가기|https://www.acmicpc.net/problem/2096|
 ||외판원 순회|https://www.acmicpc.net/problem/2098|
@@ -122,6 +127,7 @@
 ||Dance Dance Revolution|https://www.acmicpc.net/problem/2342|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
 ||최솟값과 최댓값|https://www.acmicpc.net/problem/2357|
+||안정적인 네트워크|https://www.acmicpc.net/problem/2406|
 ||조합|https://www.acmicpc.net/problem/2407|
 ||2의 멱수의 합|https://www.acmicpc.net/problem/2410|
 ||키 순서|https://www.acmicpc.net/problem/2458|
@@ -180,6 +186,7 @@
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||레이저 통신|https://www.acmicpc.net/problem/6087|
 ||핑크 플로이드|https://www.acmicpc.net/problem/6091|
+||전력난|https://www.acmicpc.net/problem/6497|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
 ||상범 빌딩|https://www.acmicpc.net/problem/6593|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
@@ -276,6 +283,7 @@
 ||퇴사|https://www.acmicpc.net/problem/14501|
 ||연구소|https://www.acmicpc.net/problem/14502|
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
+||나만 안되는 연애|https://www.acmicpc.net/problem/14621|
 ||개미굴|https://www.acmicpc.net/problem/14725|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||스타트와 링크|https://www.acmicpc.net/problem/14889|
@@ -347,6 +355,7 @@
 ||면접보는 승범이네|https://www.acmicpc.net/problem/17835|
 ||공주님을 구해라!|https://www.acmicpc.net/problem/17836|
 ||새로운 게임 2|https://www.acmicpc.net/problem/17837|
+||민준이와 마산 그리고 건우|https://www.acmicpc.net/problem/18223|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||경쟁적 전염|https://www.acmicpc.net/problem/18405|
 ||감시 피하기|https://www.acmicpc.net/problem/18428|
@@ -356,6 +365,7 @@
 ||스타트 택시|https://www.acmicpc.net/problem/19238|
 ||루머|https://www.acmicpc.net/problem/19538|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
+||악덕 영주 혜유|https://www.acmicpc.net/problem/20010|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
 ||컨베이어 벨트 위의 로봇|https://www.acmicpc.net/problem/20055|
 ||마법사 상어와 파이어볼|https://www.acmicpc.net/problem/20056|
