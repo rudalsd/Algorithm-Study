@@ -146,6 +146,7 @@
 ||보물섬|https://www.acmicpc.net/problem/2589|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
+||구슬 찾기|https://www.acmicpc.net/problem/2617|
 ||경찰차|https://www.acmicpc.net/problem/2618|
 ||음악프로그램|https://www.acmicpc.net/problem/2623|
 ||줄세우기|https://www.acmicpc.net/problem/2631|
