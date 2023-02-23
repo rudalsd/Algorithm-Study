@@ -163,6 +163,7 @@
 ||행성 터널|https://www.acmicpc.net/problem/2887|
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
+||브리징 시그널|https://www.acmicpc.net/problem/3066|
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
 ||도로 네트워크|https://www.acmicpc.net/problem/3176|
 ||뱀|https://www.acmicpc.net/problem/3190|
