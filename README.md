@@ -274,7 +274,7 @@
 ||가장 긴 증가하는 부분 수열 4|https://www.acmicpc.net/problem/14002|
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||이모티콘|https://www.acmicpc.net/problem/14226|
-||간선 이야기 2|https://www.acmicpc.net/problem/14284|
+||간선 이어가기 2|https://www.acmicpc.net/problem/14284|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||4연산|https://www.acmicpc.net/problem/14395|
 ||수열과 쿼리 15|https://www.acmicpc.net/problem/14427|
