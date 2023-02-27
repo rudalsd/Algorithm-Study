@@ -384,6 +384,7 @@
 ||상어 중학교|https://www.acmicpc.net/problem/21609|
 ||마법사 상어와 비바라기|https://www.acmicpc.net/problem/21610|
 ||마법사 상어와 블리자드|https://www.acmicpc.net/problem/21611|
+||도시 건설|https://www.acmicpc.net/problem/21924|
 ||호석사우루스|https://www.acmicpc.net/problem/22255|
 ||주사위 굴리기 2|https://www.acmicpc.net/problem/23288|
 ||온풍기 안녕!|https://www.acmicpc.net/problem/23289|
