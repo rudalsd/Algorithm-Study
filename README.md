@@ -269,6 +269,7 @@
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
 ||숨바꼭질 3|https://www.acmicpc.net/problem/13549|
+||세부|https://www.acmicpc.net/problem/13905|
 ||숨바꼭질 4|https://www.acmicpc.net/problem/13913|
 ||파일 합치기 3|https://www.acmicpc.net/problem/13975|
 ||이항 계수와 쿼리|https://www.acmicpc.net/problem/13977|
