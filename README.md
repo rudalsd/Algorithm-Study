@@ -313,6 +313,7 @@
 ||두 로봇|https://www.acmicpc.net/problem/15971|
 ||달빛 여우|https://www.acmicpc.net/problem/16118|
 ||두 동전|https://www.acmicpc.net/problem/16197|
+||MST 게임|https://www.acmicpc.net/problem/16202|
 ||인구 이동|https://www.acmicpc.net/problem/16234|
 ||나무 재테크|https://www.acmicpc.net/problem/16235|
 ||아기 상어|https://www.acmicpc.net/problem/16236|
