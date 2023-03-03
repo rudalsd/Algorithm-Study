@@ -14,6 +14,7 @@
 ||보물|https://www.acmicpc.net/problem/1026|
 ||교환|https://www.acmicpc.net/problem/1039|
 ||기타줄|https://www.acmicpc.net/problem/1049|
+||트리|https://www.acmicpc.net/problem/1068|
 ||박성원|https://www.acmicpc.net/problem/1086|
 ||게임|https://www.acmicpc.net/problem/1103|
 ||리모컨|https://www.acmicpc.net/problem/1107|
