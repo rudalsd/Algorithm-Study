@@ -26,6 +26,7 @@
 ||보석 도둑|https://www.acmicpc.net/problem/1202|
 ||부분수열의 합 2|https://www.acmicpc.net/problem/1208|
 ||파티|https://www.acmicpc.net/problem/1238|
+||노드사이의 거리|https://www.acmicpc.net/problem/1240|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||알고스팟|https://www.acmicpc.net/problem/1261|
 ||커피숍2|https://www.acmicpc.net/problem/1275|
