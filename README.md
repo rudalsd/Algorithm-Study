@@ -17,6 +17,7 @@
 ||트리|https://www.acmicpc.net/problem/1068|
 ||박성원|https://www.acmicpc.net/problem/1086|
 ||게임|https://www.acmicpc.net/problem/1103|
+||호텔|https://www.acmicpc.net/problem/1106|
 ||리모컨|https://www.acmicpc.net/problem/1107|
 ||RGB거리|https://www.acmicpc.net/problem/1149|
 ||도로포장|https://www.acmicpc.net/problem/1162|
