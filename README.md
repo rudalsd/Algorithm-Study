@@ -141,6 +141,7 @@
 ||탑|https://www.acmicpc.net/problem/2493|
 ||사회망 서비스(SNS)|https://www.acmicpc.net/problem/2533|
 ||전구|https://www.acmicpc.net/problem/2550|
+||A+B - 2|https://www.acmicpc.net/problem/2558|
 ||전깃줄|https://www.acmicpc.net/problem/2565|
 ||전깃줄 - 2|https://www.acmicpc.net/problem/2568|
 ||빙산|https://www.acmicpc.net/problem/2573|
