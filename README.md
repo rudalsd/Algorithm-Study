@@ -30,6 +30,7 @@
 ||노드사이의 거리|https://www.acmicpc.net/problem/1240|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||알고스팟|https://www.acmicpc.net/problem/1261|
+||엄청난 부자2|https://www.acmicpc.net/problem/1271|
 ||커피숍2|https://www.acmicpc.net/problem/1275|
 ||K번째 수|https://www.acmicpc.net/problem/1300|
 ||동물원|https://www.acmicpc.net/problem/1309|
