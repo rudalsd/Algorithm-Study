@@ -166,6 +166,7 @@
 ||수 정렬하기 2|https://www.acmicpc.net/problem/2751|
 ||크게 만들기|https://www.acmicpc.net/problem/2812|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
+||킹, 퀸, 룩, 비숍, 나이트, 폰|https://www.acmicpc.net/problem/3003|
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||브리징 시그널|https://www.acmicpc.net/problem/3066|
