@@ -179,6 +179,7 @@
 ||오름세|https://www.acmicpc.net/problem/3745|
 ||대한민국|https://www.acmicpc.net/problem/3770|
 ||Brainf**k 인터프리터|https://www.acmicpc.net/problem/3954|
+||크냐?|https://www.acmicpc.net/problem/4101|
 ||불!|https://www.acmicpc.net/problem/4179|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||녹색 옷 입은 애가 젤다지?|https://www.acmicpc.net/problem/4485|
