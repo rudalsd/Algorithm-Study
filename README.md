@@ -38,6 +38,7 @@
 ||꼬인 전깃줄|https://www.acmicpc.net/problem/1365|
 ||물대기|https://www.acmicpc.net/problem/1368|
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
+||불우이웃돕기|https://www.acmicpc.net/problem/1414|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||특정한 최단 경로|https://www.acmicpc.net/problem/1504|
