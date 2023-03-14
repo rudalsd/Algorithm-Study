@@ -82,6 +82,7 @@
 ||점프|https://www.acmicpc.net/problem/1890|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
 ||네트워크 연결|https://www.acmicpc.net/problem/1922|
+||그림|https://www.acmicpc.net/problem/1926|
 ||회의실 배정|https://www.acmicpc.net/problem/1931|
 ||정수 삼각형|https://www.acmicpc.net/problem/1932|
 ||욕심쟁이 판다|https://www.acmicpc.net/problem/1937|
