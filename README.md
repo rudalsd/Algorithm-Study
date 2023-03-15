@@ -76,6 +76,7 @@
 ||부분합|https://www.acmicpc.net/problem/1806|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||책정리|https://www.acmicpc.net/problem/1818|
+||고속철도 설계하기|https://www.acmicpc.net/problem/1833|
 ||순열|https://www.acmicpc.net/problem/1849|
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
 ||웜홀|https://www.acmicpc.net/problem/1865|
@@ -217,6 +218,7 @@
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||열쇠|https://www.acmicpc.net/problem/9328|
 ||도로|https://www.acmicpc.net/problem/9344|
+||상근이의 여행|https://www.acmicpc.net/problem/9372|
 ||파도반 수열|https://www.acmicpc.net/problem/9461|
 ||순열 그래프|https://www.acmicpc.net/problem/9463|
 ||스티커|https://www.acmicpc.net/problem/9465|
