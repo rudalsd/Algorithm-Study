@@ -186,6 +186,7 @@
 ||불!|https://www.acmicpc.net/problem/4179|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||녹색 옷 입은 애가 젤다지?|https://www.acmicpc.net/problem/4485|
+||섬의 개수|https://www.acmicpc.net/problem/4963|
 ||로봇 청소기|https://www.acmicpc.net/problem/4991|
 ||스타트링크|https://www.acmicpc.net/problem/5014|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
@@ -232,6 +233,7 @@
 ||저울|https://www.acmicpc.net/problem/10159|
 ||해킹|https://www.acmicpc.net/problem/10282|
 ||전기가 부족해|https://www.acmicpc.net/problem/10423|
+||판게아 1|https://www.acmicpc.net/problem/10723|
 ||공항|https://www.acmicpc.net/problem/10775|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||행렬 제곱|https://www.acmicpc.net/problem/10830|
