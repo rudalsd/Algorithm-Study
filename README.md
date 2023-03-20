@@ -317,6 +317,7 @@
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||개미|https://www.acmicpc.net/problem/14942|
 ||정복자|https://www.acmicpc.net/problem/14950|
+||Bumped!|https://www.acmicpc.net/problem/15422|
 ||퇴사 2|https://www.acmicpc.net/problem/15486|
 ||MooTube (Silver)|https://www.acmicpc.net/problem/15591|
 ||N과 M (4)|https://www.acmicpc.net/problem/15652|
