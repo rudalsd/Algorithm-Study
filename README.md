@@ -71,6 +71,7 @@
 ||우주신과의 교감|https://www.acmicpc.net/problem/1774|
 ||순열복원|https://www.acmicpc.net/problem/1777|
 ||종이의 개수|https://www.acmicpc.net/problem/1780|
+||컵라면|https://www.acmicpc.net/problem/1781|
 ||찾기|https://www.acmicpc.net/problem/1786|
 ||비숍|https://www.acmicpc.net/problem/1799|
 ||부분합|https://www.acmicpc.net/problem/1806|
