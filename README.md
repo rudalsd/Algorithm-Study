@@ -249,6 +249,7 @@
 ||가장 긴 바이토닉 부분 수열|https://www.acmicpc.net/problem/11054|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||군사 이동|https://www.acmicpc.net/problem/11085|
+||끝나지 않는 파티|https://www.acmicpc.net/problem/11265|
 ||단절점|https://www.acmicpc.net/problem/11266|
 ||절댓값 힙|https://www.acmicpc.net/problem/11286|
 ||단절선|https://www.acmicpc.net/problem/11400|
