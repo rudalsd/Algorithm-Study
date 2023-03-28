@@ -62,6 +62,7 @@
 ||볼록 껍질|https://www.acmicpc.net/problem/1708|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
+||택배|https://www.acmicpc.net/problem/1719|
 ||히스토그램|https://www.acmicpc.net/problem/1725|
 ||로봇|https://www.acmicpc.net/problem/1726|
 ||최단경로|https://www.acmicpc.net/problem/1753|
