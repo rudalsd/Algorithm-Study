@@ -314,6 +314,7 @@
 ||선수과목 (Prerequisite)|https://www.acmicpc.net/problem/14567|
 ||나만 안되는 연애|https://www.acmicpc.net/problem/14621|
 ||개미굴|https://www.acmicpc.net/problem/14725|
+||벼락치기|https://www.acmicpc.net/problem/14728|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||스타트와 링크|https://www.acmicpc.net/problem/14889|
 ||경사로|https://www.acmicpc.net/problem/14890|
