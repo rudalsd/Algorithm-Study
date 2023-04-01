@@ -393,6 +393,7 @@
 ||면접보는 승범이네|https://www.acmicpc.net/problem/17835|
 ||공주님을 구해라!|https://www.acmicpc.net/problem/17836|
 ||새로운 게임 2|https://www.acmicpc.net/problem/17837|
+||수강 과목|https://www.acmicpc.net/problem/17845|
 ||민준이와 마산 그리고 건우|https://www.acmicpc.net/problem/18223|
 ||미로에 갇힌 건우|https://www.acmicpc.net/problem/18224|
 ||지금 만나러 갑니다|https://www.acmicpc.net/problem/18235|
