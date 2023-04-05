@@ -423,6 +423,7 @@
 ||도시 건설|https://www.acmicpc.net/problem/21924|
 ||가운데에서 만나기|https://www.acmicpc.net/problem/21940|
 ||호석사우루스|https://www.acmicpc.net/problem/22255|
+||가장 긴 짝수 연속한 부분 수열 (large)|https://www.acmicpc.net/problem/22862|
 ||허들 넘기|https://www.acmicpc.net/problem/23286|
 ||주사위 굴리기 2|https://www.acmicpc.net/problem/23288|
 ||온풍기 안녕!|https://www.acmicpc.net/problem/23289|
