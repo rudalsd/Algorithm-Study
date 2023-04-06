@@ -287,6 +287,7 @@
 ||돌 그룹|https://www.acmicpc.net/problem/12886|
 ||ABCDE|https://www.acmicpc.net/problem/13023|
 ||Ignition|https://www.acmicpc.net/problem/13141|
+||List of Unique Numbers|https://www.acmicpc.net/problem/13144|
 ||철로|https://www.acmicpc.net/problem/13334|
 ||학교 탐방하기|https://www.acmicpc.net/problem/13418|
 ||비밀 모임|https://www.acmicpc.net/problem/13424|
