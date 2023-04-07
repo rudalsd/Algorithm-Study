@@ -417,6 +417,7 @@
 ||마법사 상어와 토네이도|https://www.acmicpc.net/problem/20057|
 ||마법사 상어와 파이어스톰|https://www.acmicpc.net/problem/20058|
 ||모노미노도미노 2|https://www.acmicpc.net/problem/20061|
+||같이 눈사람 만들래?|https://www.acmicpc.net/problem/20366|
 ||상어 초등학교|https://www.acmicpc.net/problem/21608|
 ||상어 중학교|https://www.acmicpc.net/problem/21609|
 ||마법사 상어와 비바라기|https://www.acmicpc.net/problem/21610|
