@@ -43,6 +43,7 @@
 ||불우이웃돕기|https://www.acmicpc.net/problem/1414|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
+||다이어트|https://www.acmicpc.net/problem/1484|
 ||특정한 최단 경로|https://www.acmicpc.net/problem/1504|
 ||팰린드롬 분할|https://www.acmicpc.net/problem/1509|
 ||게임 개발|https://www.acmicpc.net/problem/1516|
