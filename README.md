@@ -46,6 +46,7 @@
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||다이어트|https://www.acmicpc.net/problem/1484|
 ||특정한 최단 경로|https://www.acmicpc.net/problem/1504|
+||궁금한 민호|https://www.acmicpc.net/problem/1507|
 ||팰린드롬 분할|https://www.acmicpc.net/problem/1509|
 ||게임 개발|https://www.acmicpc.net/problem/1516|
 ||내리막 길|https://www.acmicpc.net/problem/1520|
@@ -160,6 +161,7 @@
 ||계단 오르기|https://www.acmicpc.net/problem/2579|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||보물섬|https://www.acmicpc.net/problem/2589|
+||돌다리 건너기|https://www.acmicpc.net/problem/2602|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
 ||구슬 찾기|https://www.acmicpc.net/problem/2617|
