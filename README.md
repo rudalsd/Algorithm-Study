@@ -105,6 +105,7 @@
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
 ||암호코드|https://www.acmicpc.net/problem/2011|
 ||소수의 곱|https://www.acmicpc.net/problem/2014|
+||신기한 소수|https://www.acmicpc.net/problem/2023|
 ||구간 합 구하기|https://www.acmicpc.net/problem/2042|
 ||작업|https://www.acmicpc.net/problem/2056|
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
