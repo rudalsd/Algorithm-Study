@@ -235,6 +235,7 @@
 ||LCS 2|https://www.acmicpc.net/problem/9252|
 ||열쇠|https://www.acmicpc.net/problem/9328|
 ||도로|https://www.acmicpc.net/problem/9344|
+||미확인 도착지|https://www.acmicpc.net/problem/9370|
 ||상근이의 여행|https://www.acmicpc.net/problem/9372|
 ||파도반 수열|https://www.acmicpc.net/problem/9461|
 ||순열 그래프|https://www.acmicpc.net/problem/9463|
