@@ -153,6 +153,7 @@
 ||두 용액|https://www.acmicpc.net/problem/2470|
 ||세 용액|https://www.acmicpc.net/problem/2473|
 ||탑|https://www.acmicpc.net/problem/2493|
+||통학버스|https://www.acmicpc.net/problem/2513|
 ||사회망 서비스(SNS)|https://www.acmicpc.net/problem/2533|
 ||전구|https://www.acmicpc.net/problem/2550|
 ||A+B - 2|https://www.acmicpc.net/problem/2558|
