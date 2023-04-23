@@ -255,6 +255,7 @@
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||피보나치 수 4|https://www.acmicpc.net/problem/10826|
 ||행렬 제곱|https://www.acmicpc.net/problem/10830|
+||여왕벌|https://www.acmicpc.net/problem/10836|
 ||쉬운 계단 수|https://www.acmicpc.net/problem/10844|
 ||최솟값|https://www.acmicpc.net/problem/10868|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
