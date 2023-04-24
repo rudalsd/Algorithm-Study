@@ -450,6 +450,7 @@
 ||두 단계 최단 경로 1|https://www.acmicpc.net/problem/23793|
 ||횡단보도https://www.acmicpc.net/problem/24042||
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
+||MMST|https://www.acmicpc.net/problem/25545|
 ||Out of Hay|https://www.acmicpc.net/problem/27009|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
