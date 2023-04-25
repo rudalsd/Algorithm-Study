@@ -199,6 +199,7 @@
 ||Brainf**k 인터프리터|https://www.acmicpc.net/problem/3954|
 ||크냐?|https://www.acmicpc.net/problem/4101|
 ||불!|https://www.acmicpc.net/problem/4179|
+||친구 네트워크|https://www.acmicpc.net/problem/4195|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||녹색 옷 입은 애가 젤다지?|https://www.acmicpc.net/problem/4485|
 ||섬의 개수|https://www.acmicpc.net/problem/4963|
