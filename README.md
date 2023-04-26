@@ -53,6 +53,7 @@
 ||퍼즐|https://www.acmicpc.net/problem/1525|
 ||길의 개수|https://www.acmicpc.net/problem/1533|
 ||계단 수|https://www.acmicpc.net/problem/1562|
+||중앙값|https://www.acmicpc.net/problem/1572|
 ||도로의 개수|https://www.acmicpc.net/problem/1577|
 ||게임|https://www.acmicpc.net/problem/1584|
 ||말이 되고픈 원숭이|https://www.acmicpc.net/problem/1600|
