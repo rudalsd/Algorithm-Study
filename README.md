@@ -240,6 +240,7 @@
 ||도로|https://www.acmicpc.net/problem/9344|
 ||미확인 도착지|https://www.acmicpc.net/problem/9370|
 ||상근이의 여행|https://www.acmicpc.net/problem/9372|
+||중앙값 측정|https://www.acmicpc.net/problem/9426|
 ||파도반 수열|https://www.acmicpc.net/problem/9461|
 ||순열 그래프|https://www.acmicpc.net/problem/9463|
 ||스티커|https://www.acmicpc.net/problem/9465|
