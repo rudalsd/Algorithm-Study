@@ -326,6 +326,7 @@
 ||간선 이어가기 2|https://www.acmicpc.net/problem/14284|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||4연산|https://www.acmicpc.net/problem/14395|
+||Foehn Phenomena|https://www.acmicpc.net/problem/14419|
 ||수열과 쿼리 15|https://www.acmicpc.net/problem/14427|
 ||수열과 쿼리 16|https://www.acmicpc.net/problem/14428|
 ||수열과 쿼리 17|https://www.acmicpc.net/problem/14438|
