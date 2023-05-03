@@ -324,6 +324,7 @@
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||이모티콘|https://www.acmicpc.net/problem/14226|
 ||회사 문화 1|https://www.acmicpc.net/problem/14267|
+||회사 문화 2|https://www.acmicpc.net/problem/14268|
 ||간선 이어가기 2|https://www.acmicpc.net/problem/14284|
 ||종이 조각|https://www.acmicpc.net/problem/14391|
 ||4연산|https://www.acmicpc.net/problem/14395|
