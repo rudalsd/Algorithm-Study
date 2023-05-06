@@ -379,6 +379,7 @@
 ||Lost Map|https://www.acmicpc.net/problem/16393|
 ||탈출|https://www.acmicpc.net/problem/16397|
 ||행성 연결|https://www.acmicpc.net/problem/16398|
+||주식회사 승범이네|https://www.acmicpc.net/problem/16404|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||친구비|https://www.acmicpc.net/problem/16562|
 ||N포커|https://www.acmicpc.net/problem/16565|
