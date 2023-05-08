@@ -142,6 +142,7 @@
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
 ||극장 좌석|https://www.acmicpc.net/problem/2302|
+||어드벤처 게임|https://www.acmicpc.net/problem/2310|
 ||Dance Dance Revolution|https://www.acmicpc.net/problem/2342|
 ||반도체 설계|https://www.acmicpc.net/problem/2352|
 ||최솟값과 최댓값|https://www.acmicpc.net/problem/2357|
