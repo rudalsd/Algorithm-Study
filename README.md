@@ -82,6 +82,7 @@
 ||컵라면|https://www.acmicpc.net/problem/1781|
 ||찾기|https://www.acmicpc.net/problem/1786|
 ||비숍|https://www.acmicpc.net/problem/1799|
+||인터넷 설치|https://www.acmicpc.net/problem/1800|
 ||부분합|https://www.acmicpc.net/problem/1806|
 ||짐 챙기는 숌|https://www.acmicpc.net/problem/1817|
 ||책정리|https://www.acmicpc.net/problem/1818|
