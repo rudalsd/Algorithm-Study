@@ -251,6 +251,7 @@
 ||텀 프로젝트|https://www.acmicpc.net/problem/9466|
 ||1의 개수 세기|https://www.acmicpc.net/problem/9527|
 ||N-Queen|https://www.acmicpc.net/problem/9663|
+||Cross Country Skiing|https://www.acmicpc.net/problem/9879|
 ||문자열 폭발|https://www.acmicpc.net/problem/9935|
 ||적록색약|https://www.acmicpc.net/problem/10026|
 ||Counting Inversions|https://www.acmicpc.net/problem/10090|
