@@ -346,6 +346,7 @@
 ||연구소|https://www.acmicpc.net/problem/14502|
 ||로봇 청소기|https://www.acmicpc.net/problem/14503|
 ||선수과목 (Prerequisite)|https://www.acmicpc.net/problem/14567|
+||Line Friends (Small)|https://www.acmicpc.net/problem/14588|
 ||나만 안되는 연애|https://www.acmicpc.net/problem/14621|
 ||개미굴|https://www.acmicpc.net/problem/14725|
 ||벼락치기|https://www.acmicpc.net/problem/14728|
