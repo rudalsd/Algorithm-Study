@@ -33,6 +33,7 @@
 ||알고스팟|https://www.acmicpc.net/problem/1261|
 ||엄청난 부자2|https://www.acmicpc.net/problem/1271|
 ||커피숍2|https://www.acmicpc.net/problem/1275|
+||나무 심기|https://www.acmicpc.net/problem/1280|
 ||K번째 수|https://www.acmicpc.net/problem/1300|
 ||달려라 홍준|https://www.acmicpc.net/problem/1306|
 ||동물원|https://www.acmicpc.net/problem/1309|
