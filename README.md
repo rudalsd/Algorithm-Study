@@ -193,6 +193,7 @@
 ||자동차 공장|https://www.acmicpc.net/problem/2820|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
 ||킹, 퀸, 룩, 비숍, 나이트, 폰|https://www.acmicpc.net/problem/3003|
+||터보소트|https://www.acmicpc.net/problem/3006|
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||브리징 시그널|https://www.acmicpc.net/problem/3066|
