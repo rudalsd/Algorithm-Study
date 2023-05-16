@@ -330,6 +330,7 @@
 ||가장 긴 증가하는 부분 수열 4|https://www.acmicpc.net/problem/14002|
 ||가장 긴 증가하는 부분 수열 5|https://www.acmicpc.net/problem/14003|
 ||이모티콘|https://www.acmicpc.net/problem/14226|
+||XOR|https://www.acmicpc.net/problem/14245|
 ||회사 문화 1|https://www.acmicpc.net/problem/14267|
 ||회사 문화 2|https://www.acmicpc.net/problem/14268|
 ||간선 이어가기 2|https://www.acmicpc.net/problem/14284|
