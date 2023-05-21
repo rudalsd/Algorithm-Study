@@ -316,6 +316,7 @@
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||평범한 배낭|https://www.acmicpc.net/problem/12865|
 ||돌 그룹|https://www.acmicpc.net/problem/12886|
+||데이터 구조|https://www.acmicpc.net/problem/12899|
 ||ABCDE|https://www.acmicpc.net/problem/13023|
 ||Ignition|https://www.acmicpc.net/problem/13141|
 ||List of Unique Numbers|https://www.acmicpc.net/problem/13144|
