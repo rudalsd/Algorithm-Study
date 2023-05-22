@@ -232,6 +232,7 @@
 ||상범 빌딩|https://www.acmicpc.net/problem/6593|
 ||월드컵|https://www.acmicpc.net/problem/6987|
 ||Bad Cowtractors|https://www.acmicpc.net/problem/7044|
+||소셜 네트워킹 어플리케이션|https://www.acmicpc.net/problem/7511|
 ||나이트의 이동|https://www.acmicpc.net/problem/7562|
 ||토마토|https://www.acmicpc.net/problem/7569|
 ||줄 세우기|https://www.acmicpc.net/problem/7570|
