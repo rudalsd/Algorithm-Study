@@ -381,6 +381,7 @@
 ||사다리 조작|https://www.acmicpc.net/problem/15684|
 ||드래곤 커브|https://www.acmicpc.net/problem/15685|
 ||치킨 배달|https://www.acmicpc.net/problem/15686|
+||CTP 왕국은 한솔 왕국을 이길 수 있을까?|https://www.acmicpc.net/problem/15789|
 ||너 봄에는 캡사이신이 맛있단다|https://www.acmicpc.net/problem/15824|
 ||두 로봇|https://www.acmicpc.net/problem/15971|
 ||1, 2, 3 더하기 4|https://www.acmicpc.net/problem/15989|
