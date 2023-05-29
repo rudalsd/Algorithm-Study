@@ -387,6 +387,7 @@
 ||두 로봇|https://www.acmicpc.net/problem/15971|
 ||1, 2, 3 더하기 4|https://www.acmicpc.net/problem/15989|
 ||달빛 여우|https://www.acmicpc.net/problem/16118|
+||퍼레이드|https://www.acmicpc.net/problem/16168|
 ||두 동전|https://www.acmicpc.net/problem/16197|
 ||MST 게임|https://www.acmicpc.net/problem/16202|
 ||인구 이동|https://www.acmicpc.net/problem/16234|
