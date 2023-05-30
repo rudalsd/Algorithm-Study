@@ -430,6 +430,7 @@
 ||선분 교차 1|https://www.acmicpc.net/problem/17386|
 ||선분 교차 2|https://www.acmicpc.net/problem/17387|
 ||백도어|https://www.acmicpc.net/problem/17396|
+||통신망 분할|https://www.acmicpc.net/problem/17398|
 ||깃발춤|https://www.acmicpc.net/problem/17400|
 ||일하는 세포|https://www.acmicpc.net/problem/17401|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
