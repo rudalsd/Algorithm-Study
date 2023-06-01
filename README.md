@@ -306,6 +306,7 @@
 ||하노이 탑 이동 순서|https://www.acmicpc.net/problem/11729|
 ||CCW|https://www.acmicpc.net/problem/11758|
 ||최소비용 구하기 2|https://www.acmicpc.net/problem/11779|
+||Counting Haybales|https://www.acmicpc.net/problem/11962|
 ||불켜기|https://www.acmicpc.net/problem/11967|
 ||주식|https://www.acmicpc.net/problem/12014|
 ||가장 긴 증가하는 부분 수열 2|https://www.acmicpc.net/problem/12015|
