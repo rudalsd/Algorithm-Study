@@ -224,6 +224,7 @@
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
 ||음주 코딩|https://www.acmicpc.net/problem/5676|
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
+||고통받는 난쟁이들|https://www.acmicpc.net/problem/5817|
 ||택배 배송|https://www.acmicpc.net/problem/5972|
 ||레이저 통신|https://www.acmicpc.net/problem/6087|
 ||핑크 플로이드|https://www.acmicpc.net/problem/6091|
