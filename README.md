@@ -321,6 +321,7 @@
 ||돌 그룹|https://www.acmicpc.net/problem/12886|
 ||적의 적|https://www.acmicpc.net/problem/12893|
 ||데이터 구조|https://www.acmicpc.net/problem/12899|
+||A와 B 2|https://www.acmicpc.net/problem/12919|
 ||ABCDE|https://www.acmicpc.net/problem/13023|
 ||Ignition|https://www.acmicpc.net/problem/13141|
 ||List of Unique Numbers|https://www.acmicpc.net/problem/13144|
