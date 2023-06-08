@@ -357,6 +357,7 @@
 ||Balanced Photo|https://www.acmicpc.net/problem/14449|
 ||소가 길을 건너간 이유 9|https://www.acmicpc.net/problem/14463|
 ||소가 길을 건너간 이유 6|https://www.acmicpc.net/problem/14466|
+||주난의 난(難)|https://www.acmicpc.net/problem/14497|
 ||주사위 굴리기|https://www.acmicpc.net/problem/14499|
 ||테트로미노|https://www.acmicpc.net/problem/14500|
 ||퇴사|https://www.acmicpc.net/problem/14501|
