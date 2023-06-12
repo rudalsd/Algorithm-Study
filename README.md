@@ -216,6 +216,7 @@
 ||섬의 개수|https://www.acmicpc.net/problem/4963|
 ||로봇 청소기|https://www.acmicpc.net/problem/4991|
 ||스타트링크|https://www.acmicpc.net/problem/5014|
+||연결|https://www.acmicpc.net/problem/5022|
 ||지구 온난화|https://www.acmicpc.net/problem/5212|
 ||환승|https://www.acmicpc.net/problem/5214|
 ||큐빙|https://www.acmicpc.net/problem/5373|
