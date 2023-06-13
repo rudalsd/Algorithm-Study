@@ -193,6 +193,7 @@
 ||수 정렬하기 2|https://www.acmicpc.net/problem/2751|
 ||크게 만들기|https://www.acmicpc.net/problem/2812|
 ||자동차 공장|https://www.acmicpc.net/problem/2820|
+||행성 X3|https://www.acmicpc.net/problem/2830|
 ||행성 터널|https://www.acmicpc.net/problem/2887|
 ||LRH 식물|https://www.acmicpc.net/problem/2934|
 ||킹, 퀸, 룩, 비숍, 나이트, 폰|https://www.acmicpc.net/problem/3003|
