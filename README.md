@@ -381,6 +381,7 @@
 ||미로 탈출|https://www.acmicpc.net/problem/14923|
 ||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
+||쉬운 최단거리|https://www.acmicpc.net/problem/14940|
 ||개미|https://www.acmicpc.net/problem/14942|
 ||정복자|https://www.acmicpc.net/problem/14950|
 ||Bumped!|https://www.acmicpc.net/problem/15422|
