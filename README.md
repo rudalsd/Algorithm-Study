@@ -205,6 +205,7 @@
 ||도로 네트워크|https://www.acmicpc.net/problem/3176|
 ||뱀|https://www.acmicpc.net/problem/3190|
 ||가장 가까운 공통 조상|https://www.acmicpc.net/problem/3584|
+||로봇 프로젝트|https://www.acmicpc.net/problem/3649|
 ||영화 수집|https://www.acmicpc.net/problem/3653|
 ||오름세|https://www.acmicpc.net/problem/3745|
 ||대한민국|https://www.acmicpc.net/problem/3770|
