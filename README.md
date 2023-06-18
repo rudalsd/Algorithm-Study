@@ -67,6 +67,7 @@
 ||가운데를 말해요|https://www.acmicpc.net/problem/1655|
 ||멍멍이 쓰다듬기|https://www.acmicpc.net/problem/1669|
 ||크로스워드|https://www.acmicpc.net/problem/1706|
+||이분 그래프|https://www.acmicpc.net/problem/1707|
 ||볼록 껍질|https://www.acmicpc.net/problem/1708|
 ||카드 정렬하기|https://www.acmicpc.net/problem/1715|
 ||집합의 표현|https://www.acmicpc.net/problem/1717|
