@@ -101,6 +101,7 @@
 ||복제 로봇|https://www.acmicpc.net/problem/1944|
 ||임계경로|https://www.acmicpc.net/problem/1948|
 ||운동|https://www.acmicpc.net/problem/1956|
+||소수 경로|https://www.acmicpc.net/problem/1963|
 ||상자넣기|https://www.acmicpc.net/problem/1965|
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
 ||여행 가자|https://www.acmicpc.net/problem/1976|
