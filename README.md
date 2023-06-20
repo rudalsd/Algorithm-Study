@@ -91,6 +91,7 @@
 ||고속철도 설계하기|https://www.acmicpc.net/problem/1833|
 ||순열|https://www.acmicpc.net/problem/1849|
 ||K번째 최단경로 찾기|https://www.acmicpc.net/problem/1854|
+||스카이라인 쉬운거|https://www.acmicpc.net/problem/1863|
 ||웜홀|https://www.acmicpc.net/problem/1865|
 ||점프|https://www.acmicpc.net/problem/1890|
 ||수 찾기|https://www.acmicpc.net/problem/1920|
