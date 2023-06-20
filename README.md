@@ -328,6 +328,7 @@
 ||본대 산책2|https://www.acmicpc.net/problem/12850|
 ||1로 만들기 2|https://www.acmicpc.net/problem/12852|
 ||평범한 배낭|https://www.acmicpc.net/problem/12865|
+||뮤탈리스크|https://www.acmicpc.net/problem/12869|
 ||돌 그룹|https://www.acmicpc.net/problem/12886|
 ||적의 적|https://www.acmicpc.net/problem/12893|
 ||데이터 구조|https://www.acmicpc.net/problem/12899|
