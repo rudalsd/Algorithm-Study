@@ -252,6 +252,7 @@
 ||앱|https://www.acmicpc.net/problem/7579|
 ||이중 우선순위 큐|https://www.acmicpc.net/problem/7662|
 ||틱택토|https://www.acmicpc.net/problem/7682|
+||입력숫자|https://www.acmicpc.net/problem/8981|
 ||DSLR|https://www.acmicpc.net/problem/9019|
 ||맥주 마시면서 걸어가기|https://www.acmicpc.net/problem/9205|
 ||LCS|https://www.acmicpc.net/problem/9251|
