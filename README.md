@@ -302,6 +302,7 @@
 ||열혈강호 2|https://www.acmicpc.net/problem/11376|
 ||단절선|https://www.acmicpc.net/problem/11400|
 ||이항 계수 3|https://www.acmicpc.net/problem/11401|
+||이항 계수 4|https://www.acmicpc.net/problem/11402|
 ||경로 찾기|https://www.acmicpc.net/problem/11403|
 ||플로이드|https://www.acmicpc.net/problem/11404|
 ||LCA 2|https://www.acmicpc.net/problem/11438|
