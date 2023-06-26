@@ -12,6 +12,7 @@
 ||제곱 ㄴㄴ 수|https://www.acmicpc.net/problem/1016|
 ||책 페이지|https://www.acmicpc.net/problem/1019|
 ||보물|https://www.acmicpc.net/problem/1026|
+||감소하는 수|https://www.acmicpc.net/problem/1038|
 ||교환|https://www.acmicpc.net/problem/1039|
 ||기타줄|https://www.acmicpc.net/problem/1049|
 ||트리|https://www.acmicpc.net/problem/1068|
