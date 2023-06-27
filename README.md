@@ -46,6 +46,7 @@
 ||스위치|https://www.acmicpc.net/problem/1395|
 ||불우이웃돕기|https://www.acmicpc.net/problem/1414|
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
+||거의 소수|https://www.acmicpc.net/problem/1456|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||다이어트|https://www.acmicpc.net/problem/1484|
 ||특정한 최단 경로|https://www.acmicpc.net/problem/1504|
