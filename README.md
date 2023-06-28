@@ -239,6 +239,7 @@
 ||택배 배송|https://www.acmicpc.net/problem/5972|
 ||레이저 통신|https://www.acmicpc.net/problem/6087|
 ||핑크 플로이드|https://www.acmicpc.net/problem/6091|
+||옥상 정원 꾸미기|https://www.acmicpc.net/problem/6198|
 ||전력난|https://www.acmicpc.net/problem/6497|
 ||히스토그램에서 가장 큰 직사각형|https://www.acmicpc.net/problem/6549|
 ||상범 빌딩|https://www.acmicpc.net/problem/6593|
