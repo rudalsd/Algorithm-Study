@@ -229,6 +229,7 @@
 ||환승|https://www.acmicpc.net/problem/5214|
 ||큐빙|https://www.acmicpc.net/problem/5373|
 ||불|https://www.acmicpc.net/problem/5427|
+||AC|https://www.acmicpc.net/problem/5430|
 ||저택|https://www.acmicpc.net/problem/5529|
 ||チーズ (Cheese)|https://www.acmicpc.net/problem/5558|
 ||공통 부분 문자열|https://www.acmicpc.net/problem/5582|
