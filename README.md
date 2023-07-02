@@ -120,6 +120,7 @@
 ||N번째 큰 수|https://www.acmicpc.net/problem/2075|
 ||내려가기|https://www.acmicpc.net/problem/2096|
 ||외판원 순회|https://www.acmicpc.net/problem/2098|
+||공유기 설치|https://www.acmicpc.net/problem/2110|
 ||타일 채우기|https://www.acmicpc.net/problem/2133|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||두 배열의 합|https://www.acmicpc.net/problem/2143|
