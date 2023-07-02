@@ -288,6 +288,7 @@
 ||행렬 제곱|https://www.acmicpc.net/problem/10830|
 ||여왕벌|https://www.acmicpc.net/problem/10836|
 ||쉬운 계단 수|https://www.acmicpc.net/problem/10844|
+||덱|https://www.acmicpc.net/problem/10866|
 ||최솟값|https://www.acmicpc.net/problem/10868|
 ||팰린드롬?|https://www.acmicpc.net/problem/10942|
 ||수 정렬하기 3|https://www.acmicpc.net/problem/10989|
