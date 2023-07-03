@@ -48,6 +48,7 @@
 ||일요일 아침의 데이트|https://www.acmicpc.net/problem/1445|
 ||거의 소수|https://www.acmicpc.net/problem/1456|
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
+||휴게소 세우기|https://www.acmicpc.net/problem/1477|
 ||다이어트|https://www.acmicpc.net/problem/1484|
 ||특정한 최단 경로|https://www.acmicpc.net/problem/1504|
 ||궁금한 민호|https://www.acmicpc.net/problem/1507|
