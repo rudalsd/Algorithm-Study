@@ -151,6 +151,7 @@
 ||데스노트|https://www.acmicpc.net/problem/2281|
 ||동전 1|https://www.acmicpc.net/problem/2293|
 ||동전 2|https://www.acmicpc.net/problem/2294|
+||세 수의 합|https://www.acmicpc.net/problem/2295|
 ||극장 좌석|https://www.acmicpc.net/problem/2302|
 ||어드벤처 게임|https://www.acmicpc.net/problem/2310|
 ||Dance Dance Revolution|https://www.acmicpc.net/problem/2342|
