@@ -224,6 +224,7 @@
 ||친구 네트워크|https://www.acmicpc.net/problem/4195|
 ||별자리 만들기|https://www.acmicpc.net/problem/4386|
 ||녹색 옷 입은 애가 젤다지?|https://www.acmicpc.net/problem/4485|
+||알약|https://www.acmicpc.net/problem/4811|
 ||섬의 개수|https://www.acmicpc.net/problem/4963|
 ||로봇 청소기|https://www.acmicpc.net/problem/4991|
 ||스타트링크|https://www.acmicpc.net/problem/5014|
