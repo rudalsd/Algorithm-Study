@@ -404,6 +404,7 @@
 ||쉬운 최단거리|https://www.acmicpc.net/problem/14940|
 ||개미|https://www.acmicpc.net/problem/14942|
 ||정복자|https://www.acmicpc.net/problem/14950|
+||Thiling|https://www.acmicpc.net/problem/15243|
 ||Bumped!|https://www.acmicpc.net/problem/15422|
 ||퇴사 2|https://www.acmicpc.net/problem/15486|
 ||MooTube (Silver)|https://www.acmicpc.net/problem/15591|
