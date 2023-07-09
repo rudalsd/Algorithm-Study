@@ -515,6 +515,7 @@
 ||마법사 상어와 비바라기|https://www.acmicpc.net/problem/21610|
 ||마법사 상어와 블리자드|https://www.acmicpc.net/problem/21611|
 ||도시 건설|https://www.acmicpc.net/problem/21924|
+||문제 추천 시스템 Version 1|https://www.acmicpc.net/problem/21939|
 ||가운데에서 만나기|https://www.acmicpc.net/problem/21940|
 ||호석사우루스|https://www.acmicpc.net/problem/22255|
 ||트리 순회|https://www.acmicpc.net/problem/22856|
