@@ -111,6 +111,7 @@
 ||트리의 지름|https://www.acmicpc.net/problem/1967|
 ||여행 가자|https://www.acmicpc.net/problem/1976|
 ||알파벳|https://www.acmicpc.net/problem/1987|
+||소수인팰린드롬|https://www.acmicpc.net/problem/1990|
 ||트리 순회|https://www.acmicpc.net/problem/1991|
 ||수들의 합2|https://www.acmicpc.net/problem/2003|
 ||암호코드|https://www.acmicpc.net/problem/2011|
