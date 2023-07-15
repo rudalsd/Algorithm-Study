@@ -253,6 +253,7 @@
 ||상범 빌딩|https://www.acmicpc.net/problem/6593|
 ||월드컵|https://www.acmicpc.net/problem/6987|
 ||Bad Cowtractors|https://www.acmicpc.net/problem/7044|
+||디스크 트리|https://www.acmicpc.net/problem/7432|
 ||합이 0인 네 정수|https://www.acmicpc.net/problem/7453|
 ||0 만들기|https://www.acmicpc.net/problem/7490|
 ||소셜 네트워킹 어플리케이션|https://www.acmicpc.net/problem/7511|
