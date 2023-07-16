@@ -447,6 +447,7 @@
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||뱀과 사다리 게임|https://www.acmicpc.net/problem/16928|
 ||벽 부수고 이동하기 3|https://www.acmicpc.net/problem/16933|
+||게임 닉네임|https://www.acmicpc.net/problem/16934|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||수열과 쿼리 21|https://www.acmicpc.net/problem/16975|
