@@ -412,6 +412,7 @@
 ||Thiling|https://www.acmicpc.net/problem/15243|
 ||Bumped!|https://www.acmicpc.net/problem/15422|
 ||퇴사 2|https://www.acmicpc.net/problem/15486|
+||점프 게임|https://www.acmicpc.net/problem/15558|
 ||MooTube (Silver)|https://www.acmicpc.net/problem/15591|
 ||N과 M (4)|https://www.acmicpc.net/problem/15652|
 ||N과 M (5)|https://www.acmicpc.net/problem/15654|
