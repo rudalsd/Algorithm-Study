@@ -29,6 +29,7 @@
 ||부분수열의 합 2|https://www.acmicpc.net/problem/1208|
 ||파티|https://www.acmicpc.net/problem/1238|
 ||노드사이의 거리|https://www.acmicpc.net/problem/1240|
+||농장 관리|https://www.acmicpc.net/problem/1245|
 ||좋다|https://www.acmicpc.net/problem/1253|
 ||DFS와 BFS|https://www.acmicpc.net/problem/1260|
 ||알고스팟|https://www.acmicpc.net/problem/1261|
@@ -411,6 +412,7 @@
 ||Thiling|https://www.acmicpc.net/problem/15243|
 ||Bumped!|https://www.acmicpc.net/problem/15422|
 ||퇴사 2|https://www.acmicpc.net/problem/15486|
+||점프 게임|https://www.acmicpc.net/problem/15558|
 ||MooTube (Silver)|https://www.acmicpc.net/problem/15591|
 ||N과 M (4)|https://www.acmicpc.net/problem/15652|
 ||N과 M (5)|https://www.acmicpc.net/problem/15654|
@@ -438,6 +440,7 @@
 ||행성 연결|https://www.acmicpc.net/problem/16398|
 ||주식회사 승범이네|https://www.acmicpc.net/problem/16404|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
+||장군|https://www.acmicpc.net/problem/16509|
 ||친구비|https://www.acmicpc.net/problem/16562|
 ||N포커|https://www.acmicpc.net/problem/16565|
 ||카드 게임|https://www.acmicpc.net/problem/16566|
@@ -451,6 +454,7 @@
 ||게임 닉네임|https://www.acmicpc.net/problem/16934|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
+||움직이는 미로 탈출|https://www.acmicpc.net/problem/16954|
 ||수열과 쿼리 21|https://www.acmicpc.net/problem/16975|
 ||Sleepy Cow Sorting|https://www.acmicpc.net/problem/17022|
 ||Icy Perimeter|https://www.acmicpc.net/problem/17025|
