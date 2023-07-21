@@ -446,6 +446,7 @@
 ||확장 게임|https://www.acmicpc.net/problem/16920|
 ||로마 숫자 만들기|https://www.acmicpc.net/problem/16922|
 ||뱀과 사다리 게임|https://www.acmicpc.net/problem/16928|
+||Two Dots|https://www.acmicpc.net/problem/16929|
 ||벽 부수고 이동하기 3|https://www.acmicpc.net/problem/16933|
 ||게임 닉네임|https://www.acmicpc.net/problem/16934|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
