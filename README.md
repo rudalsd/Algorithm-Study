@@ -509,6 +509,7 @@
 ||스타트 택시|https://www.acmicpc.net/problem/19238|
 ||루머|https://www.acmicpc.net/problem/19538|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
+||피자 오븐|https://www.acmicpc.net/problem/19940|
 ||악덕 영주 혜유|https://www.acmicpc.net/problem/20010|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
 ||컨베이어 벨트 위의 로봇|https://www.acmicpc.net/problem/20055|
