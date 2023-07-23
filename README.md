@@ -456,6 +456,7 @@
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||움직이는 미로 탈출|https://www.acmicpc.net/problem/16954|
 ||수열과 쿼리 21|https://www.acmicpc.net/problem/16975|
+||수열과 쿼리 22|https://www.acmicpc.net/problem/16978|
 ||Sleepy Cow Sorting|https://www.acmicpc.net/problem/17022|
 ||Icy Perimeter|https://www.acmicpc.net/problem/17025|
 ||파이프 옮기기 1|https://www.acmicpc.net/problem/17070|
