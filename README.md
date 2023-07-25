@@ -383,6 +383,7 @@
 ||수열과 쿼리 17|https://www.acmicpc.net/problem/14438|
 ||벽 부수고 이동하기 2|https://www.acmicpc.net/problem/14442|
 ||Balanced Photo|https://www.acmicpc.net/problem/14449|
+||소가 길을 건너간 이유 11|https://www.acmicpc.net/problem/14459|
 ||소가 길을 건너간 이유 9|https://www.acmicpc.net/problem/14463|
 ||소가 길을 건너간 이유 6|https://www.acmicpc.net/problem/14466|
 ||주난의 난(難)|https://www.acmicpc.net/problem/14497|
