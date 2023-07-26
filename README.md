@@ -486,6 +486,7 @@
 ||일하는 세포|https://www.acmicpc.net/problem/17401|
 ||RGB거리 2|https://www.acmicpc.net/problem/17404|
 ||배열 돌리기 4|https://www.acmicpc.net/problem/17406|
+||수열과 쿼리 24|https://www.acmicpc.net/problem/17408|
 ||소수의 배수|https://www.acmicpc.net/problem/17436|
 ||게리맨더링|https://www.acmicpc.net/problem/17471|
 ||다리 만들기 2|https://www.acmicpc.net/problem/17472|
