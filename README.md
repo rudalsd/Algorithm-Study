@@ -230,6 +230,7 @@
 ||알약|https://www.acmicpc.net/problem/4811|
 ||섬의 개수|https://www.acmicpc.net/problem/4963|
 ||로봇 청소기|https://www.acmicpc.net/problem/4991|
+||불만 정렬|https://www.acmicpc.net/problem/5012|
 ||스타트링크|https://www.acmicpc.net/problem/5014|
 ||연결|https://www.acmicpc.net/problem/5022|
 ||전화번호 목록|https://www.acmicpc.net/problem/5052|
