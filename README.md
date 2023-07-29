@@ -363,6 +363,7 @@
 ||시험 감독|https://www.acmicpc.net/problem/13458|
 ||구슬 탈출|https://www.acmicpc.net/problem/13459|
 ||구슬 탈출 2|https://www.acmicpc.net/problem/13460|
+||수열과 쿼리 1|https://www.acmicpc.net/problem/13537|
 ||숨바꼭질 3|https://www.acmicpc.net/problem/13549|
 ||세부|https://www.acmicpc.net/problem/13905|
 ||숨바꼭질 4|https://www.acmicpc.net/problem/13913|
