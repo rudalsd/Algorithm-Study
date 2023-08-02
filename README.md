@@ -446,6 +446,7 @@
 ||탈출|https://www.acmicpc.net/problem/16397|
 ||행성 연결|https://www.acmicpc.net/problem/16398|
 ||주식회사 승범이네|https://www.acmicpc.net/problem/16404|
+||고냥이|https://www.acmicpc.net/problem/16472|
 ||문자열 판별|https://www.acmicpc.net/problem/16500|
 ||장군|https://www.acmicpc.net/problem/16509|
 ||친구비|https://www.acmicpc.net/problem/16562|
