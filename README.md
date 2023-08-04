@@ -529,6 +529,7 @@
 ||마법사 상어와 파이어스톰|https://www.acmicpc.net/problem/20058|
 ||모노미노도미노 2|https://www.acmicpc.net/problem/20061|
 ||골목 대장 호석 - 기능성|https://www.acmicpc.net/problem/20168|
+||골목 대장 호석 - 효율성 1|https://www.acmicpc.net/problem/20182|
 ||화학 실험|https://www.acmicpc.net/problem/20311|
 ||같이 눈사람 만들래?|https://www.acmicpc.net/problem/20366|
 ||문자열 게임 2|https://www.acmicpc.net/problem/20437|
