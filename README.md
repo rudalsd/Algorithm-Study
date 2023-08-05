@@ -138,6 +138,7 @@
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
 ||네트워크 복구|https://www.acmicpc.net/problem/2211|
 ||로프|https://www.acmicpc.net/problem/2217|
+||명제 증명|https://www.acmicpc.net/problem/2224|
 ||합분해|https://www.acmicpc.net/problem/2225|
 ||구간 나누기|https://www.acmicpc.net/problem/2228|
 ||조 짜기|https://www.acmicpc.net/problem/2229|
