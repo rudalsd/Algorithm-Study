@@ -464,6 +464,7 @@
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||움직이는 미로 탈출|https://www.acmicpc.net/problem/16954|
+||구간과 쿼리|https://www.acmicpc.net/problem/16965|
 ||수열과 쿼리 21|https://www.acmicpc.net/problem/16975|
 ||수열과 쿼리 22|https://www.acmicpc.net/problem/16978|
 ||Sleepy Cow Sorting|https://www.acmicpc.net/problem/17022|
