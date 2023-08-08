@@ -214,6 +214,7 @@
 ||오아시스 재결합|https://www.acmicpc.net/problem/3015|
 ||탈출|https://www.acmicpc.net/problem/3055|
 ||브리징 시그널|https://www.acmicpc.net/problem/3066|
+||Coins|https://www.acmicpc.net/problem/3067|
 ||입국심사|https://www.acmicpc.net/problem/3079|
 ||합이 0|https://www.acmicpc.net/problem/3151|
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
