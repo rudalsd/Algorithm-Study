@@ -293,6 +293,7 @@
 ||적록색약|https://www.acmicpc.net/problem/10026|
 ||Counting Inversions|https://www.acmicpc.net/problem/10090|
 ||저울|https://www.acmicpc.net/problem/10159|
+||Count Circle Groups|https://www.acmicpc.net/problem/10216|
 ||해킹|https://www.acmicpc.net/problem/10282|
 ||전기가 부족해|https://www.acmicpc.net/problem/10423|
 ||XOR|https://www.acmicpc.net/problem/10464|
