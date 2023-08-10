@@ -299,6 +299,7 @@
 ||XOR|https://www.acmicpc.net/problem/10464|
 ||판게아 1|https://www.acmicpc.net/problem/10723|
 ||공항|https://www.acmicpc.net/problem/10775|
+||나이순 정렬|https://www.acmicpc.net/problem/10814|
 ||숫자 카드|https://www.acmicpc.net/problem/10815|
 ||피보나치 수 4|https://www.acmicpc.net/problem/10826|
 ||행렬 제곱|https://www.acmicpc.net/problem/10830|
