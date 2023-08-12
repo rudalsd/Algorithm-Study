@@ -183,6 +183,7 @@
 ||계단 오르기|https://www.acmicpc.net/problem/2579|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||보물섬|https://www.acmicpc.net/problem/2589|
+||숫자카드|https://www.acmicpc.net/problem/2591|
 ||돌다리 건너기|https://www.acmicpc.net/problem/2602|
 ||바이러스|https://www.acmicpc.net/problem/2606|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
