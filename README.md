@@ -171,6 +171,7 @@
 ||안전 영역|https://www.acmicpc.net/problem/2468|
 ||두 용액|https://www.acmicpc.net/problem/2470|
 ||세 용액|https://www.acmicpc.net/problem/2473|
+||경로 찾기|https://www.acmicpc.net/problem/2479|
 ||탑|https://www.acmicpc.net/problem/2493|
 ||통학버스|https://www.acmicpc.net/problem/2513|
 ||달리기|https://www.acmicpc.net/problem/2517|
