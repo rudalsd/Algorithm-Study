@@ -168,6 +168,7 @@
 ||2의 멱수의 합|https://www.acmicpc.net/problem/2410|
 ||공약수|https://www.acmicpc.net/problem/2436|
 ||키 순서|https://www.acmicpc.net/problem/2458|
+||비용|https://www.acmicpc.net/problem/2463|
 ||줄 세우기|https://www.acmicpc.net/problem/2465|
 ||용액|https://www.acmicpc.net/problem/2467|
 ||안전 영역|https://www.acmicpc.net/problem/2468|
