@@ -182,6 +182,7 @@
 ||전깃줄 - 2|https://www.acmicpc.net/problem/2568|
 ||빙산|https://www.acmicpc.net/problem/2573|
 ||계단 오르기|https://www.acmicpc.net/problem/2579|
+||스도쿠|https://www.acmicpc.net/problem/2580|
 ||영역 구하기|https://www.acmicpc.net/problem/2583|
 ||보물섬|https://www.acmicpc.net/problem/2589|
 ||숫자카드|https://www.acmicpc.net/problem/2591|
