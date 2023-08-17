@@ -207,6 +207,7 @@
 ||행렬 덧셈|https://www.acmicpc.net/problem/2738|
 ||피보나치 수 3|https://www.acmicpc.net/problem/2749|
 ||수 정렬하기 2|https://www.acmicpc.net/problem/2751|
+||로또|https://www.acmicpc.net/problem/2758|
 ||괄호 제거|https://www.acmicpc.net/problem/2800|
 ||크게 만들기|https://www.acmicpc.net/problem/2812|
 ||자동차 공장|https://www.acmicpc.net/problem/2820|
