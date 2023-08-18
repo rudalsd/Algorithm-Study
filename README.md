@@ -322,6 +322,7 @@
 ||행렬 곱셈 순서|https://www.acmicpc.net/problem/11049|
 ||가장 긴 증가하는 부분 수열|https://www.acmicpc.net/problem/11053|
 ||가장 긴 바이토닉 부분 수열|https://www.acmicpc.net/problem/11054|
+||크리보드|https://www.acmicpc.net/problem/11058|
 ||파일 합치기|https://www.acmicpc.net/problem/11066|
 ||군사 이동|https://www.acmicpc.net/problem/11085|
 ||끝나지 않는 파티|https://www.acmicpc.net/problem/11265|
