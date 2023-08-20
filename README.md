@@ -569,6 +569,7 @@
 ||좀비 바이러스|https://www.acmicpc.net/problem/24513|
 ||MMST|https://www.acmicpc.net/problem/25545|
 ||Out of Hay|https://www.acmicpc.net/problem/27009|
+||곱하기와 쿼리|https://www.acmicpc.net/problem/28421|
 ||||
 |프로그래머스|소수 만들기|https://programmers.co.kr/learn/courses/30/lessons/12977|
 ||카펫|https://programmers.co.kr/learn/courses/30/lessons/42842|
