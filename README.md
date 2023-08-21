@@ -189,6 +189,7 @@
 ||숫자카드|https://www.acmicpc.net/problem/2591|
 ||돌다리 건너기|https://www.acmicpc.net/problem/2602|
 ||바이러스|https://www.acmicpc.net/problem/2606|
+||회의준비|https://www.acmicpc.net/problem/2610|
 ||소형기관차|https://www.acmicpc.net/problem/2616|
 ||구슬 찾기|https://www.acmicpc.net/problem/2617|
 ||경찰차|https://www.acmicpc.net/problem/2618|
