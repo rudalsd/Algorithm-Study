@@ -259,6 +259,7 @@
 ||거의 최단 경로|https://www.acmicpc.net/problem/5719|
 ||고통받는 난쟁이들|https://www.acmicpc.net/problem/5817|
 ||택배 배송|https://www.acmicpc.net/problem/5972|
+||Guarding the Farm|https://www.acmicpc.net/problem/6067|
 ||레이저 통신|https://www.acmicpc.net/problem/6087|
 ||핑크 플로이드|https://www.acmicpc.net/problem/6091|
 ||옥상 정원 꾸미기|https://www.acmicpc.net/problem/6198|
