@@ -40,6 +40,7 @@
 ||달려라 홍준|https://www.acmicpc.net/problem/1306|
 ||동물원|https://www.acmicpc.net/problem/1309|
 ||군인|https://www.acmicpc.net/problem/1321|
+||단어 수학|https://www.acmicpc.net/problem/1339|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
 ||꼬인 전깃줄|https://www.acmicpc.net/problem/1365|
 ||물대기|https://www.acmicpc.net/problem/1368|
