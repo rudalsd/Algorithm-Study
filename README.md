@@ -52,6 +52,7 @@
 ||1로 만들기|https://www.acmicpc.net/problem/1463|
 ||휴게소 세우기|https://www.acmicpc.net/problem/1477|
 ||다이어트|https://www.acmicpc.net/problem/1484|
+||등산|https://www.acmicpc.net/problem/1486|
 ||특정한 최단 경로|https://www.acmicpc.net/problem/1504|
 ||궁금한 민호|https://www.acmicpc.net/problem/1507|
 ||팰린드롬 분할|https://www.acmicpc.net/problem/1509|
