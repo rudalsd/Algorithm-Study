@@ -131,6 +131,7 @@
 ||타일 채우기|https://www.acmicpc.net/problem/2133|
 ||전구와 스위치|https://www.acmicpc.net/problem/2138|
 ||두 배열의 합|https://www.acmicpc.net/problem/2143|
+||다리 만들기|https://www.acmicpc.net/problem/2146|
 ||Strongly Connected Component|https://www.acmicpc.net/problem/2150|
 ||거울 설치|https://www.acmicpc.net/problem/2151|
 ||여행|https://www.acmicpc.net/problem/2157|
