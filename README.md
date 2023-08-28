@@ -230,6 +230,7 @@
 ||합이 0|https://www.acmicpc.net/problem/3151|
 ||떨어지는 개미|https://www.acmicpc.net/problem/3163|
 ||도로 네트워크|https://www.acmicpc.net/problem/3176|
+||양|https://www.acmicpc.net/problem/3184|
 ||뱀|https://www.acmicpc.net/problem/3190|
 ||가장 가까운 공통 조상|https://www.acmicpc.net/problem/3584|
 ||로봇 프로젝트|https://www.acmicpc.net/problem/3649|
