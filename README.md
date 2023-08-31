@@ -483,6 +483,7 @@
 ||벽 부수고 이동하기 3|https://www.acmicpc.net/problem/16933|
 ||게임 닉네임|https://www.acmicpc.net/problem/16934|
 ||나3곱2|https://www.acmicpc.net/problem/16936|
+||BFS 스페셜 저지|https://www.acmicpc.net/problem/16940|
 ||벽 부수고 이동하기 4|https://www.acmicpc.net/problem/16946|
 ||A → B|https://www.acmicpc.net/problem/16953|
 ||움직이는 미로 탈출|https://www.acmicpc.net/problem/16954|
