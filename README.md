@@ -290,6 +290,7 @@
 ||입력숫자|https://www.acmicpc.net/problem/8981|
 ||DSLR|https://www.acmicpc.net/problem/9019|
 ||두 수의 합|https://www.acmicpc.net/problem/9024|
+||동전|https://www.acmicpc.net/problem/9084|
 ||맥주 마시면서 걸어가기|https://www.acmicpc.net/problem/9205|
 ||LCS|https://www.acmicpc.net/problem/9251|
 ||LCS 2|https://www.acmicpc.net/problem/9252|
