@@ -557,6 +557,7 @@
 ||마법사 상어와 토네이도|https://www.acmicpc.net/problem/20057|
 ||마법사 상어와 파이어스톰|https://www.acmicpc.net/problem/20058|
 ||모노미노도미노 2|https://www.acmicpc.net/problem/20061|
+||야쿠르트 아줌마 야쿠르트 주세요|https://www.acmicpc.net/problem/20160|
 ||골목 대장 호석 - 기능성|https://www.acmicpc.net/problem/20168|
 ||골목 대장 호석 - 효율성 1|https://www.acmicpc.net/problem/20182|
 ||화학 실험|https://www.acmicpc.net/problem/20311|
