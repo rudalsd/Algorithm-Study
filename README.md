@@ -259,6 +259,7 @@
 ||불|https://www.acmicpc.net/problem/5427|
 ||AC|https://www.acmicpc.net/problem/5430|
 ||저택|https://www.acmicpc.net/problem/5529|
+||행성 탐사|https://www.acmicpc.net/problem/5549|
 ||チーズ (Cheese)|https://www.acmicpc.net/problem/5558|
 ||공통 부분 문자열|https://www.acmicpc.net/problem/5582|
 ||이진 검색 트리|https://www.acmicpc.net/problem/5639|
