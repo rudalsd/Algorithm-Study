@@ -385,6 +385,7 @@
 ||Ignition|https://www.acmicpc.net/problem/13141|
 ||List of Unique Numbers|https://www.acmicpc.net/problem/13144|
 ||철로|https://www.acmicpc.net/problem/13334|
+||연속합 2|https://www.acmicpc.net/problem/13398|
 ||학교 탐방하기|https://www.acmicpc.net/problem/13418|
 ||비밀 모임|https://www.acmicpc.net/problem/13424|
 ||시험 감독|https://www.acmicpc.net/problem/13458|
