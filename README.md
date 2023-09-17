@@ -574,6 +574,7 @@
 ||화학 실험|https://www.acmicpc.net/problem/20311|
 ||같이 눈사람 만들래?|https://www.acmicpc.net/problem/20366|
 ||문자열 게임 2|https://www.acmicpc.net/problem/20437|
+||트리의 기둥과 가지|https://www.acmicpc.net/problem/20924|
 ||민서의 응급 수술|https://www.acmicpc.net/problem/20955|
 ||상어 초등학교|https://www.acmicpc.net/problem/21608|
 ||상어 중학교|https://www.acmicpc.net/problem/21609|
