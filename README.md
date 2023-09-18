@@ -443,6 +443,7 @@
 ||톱니바퀴|https://www.acmicpc.net/problem/14891|
 ||용액 합성하기|https://www.acmicpc.net/problem/14921|
 ||미로 탈출|https://www.acmicpc.net/problem/14923|
+||목장 건설하기|https://www.acmicpc.net/problem/14925|
 ||서강그라운드|https://www.acmicpc.net/problem/14938|
 ||불 끄기|https://www.acmicpc.net/problem/14939|
 ||쉬운 최단거리|https://www.acmicpc.net/problem/14940|
