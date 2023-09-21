@@ -139,6 +139,7 @@
 ||여행|https://www.acmicpc.net/problem/2157|
 ||선분 그룹|https://www.acmicpc.net/problem/2162|
 ||카드2|https://www.acmicpc.net/problem/2164|
+||로봇 시뮬레이션|https://www.acmicpc.net/problem/2174|
 ||미로 탐색|https://www.acmicpc.net/problem/2178|
 ||문자열 복사|https://www.acmicpc.net/problem/2195|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
