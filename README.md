@@ -43,6 +43,7 @@
 ||단어 수학|https://www.acmicpc.net/problem/1339|
 ||폴리오미노|https://www.acmicpc.net/problem/1343|
 ||무한 수열|https://www.acmicpc.net/problem/1351|
+||무한 수열 2|https://www.acmicpc.net/problem/1354|
 ||꼬인 전깃줄|https://www.acmicpc.net/problem/1365|
 ||물대기|https://www.acmicpc.net/problem/1368|
 ||케빈 베이컨의 6단계 법칙|https://www.acmicpc.net/problem/1389|
