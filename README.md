@@ -209,6 +209,7 @@
 ||치즈|https://www.acmicpc.net/problem/2638|
 ||촌수계산|https://www.acmicpc.net/problem/2644|
 ||회장뽑기|https://www.acmicpc.net/problem/2660|
+||좋은수열|https://www.acmicpc.net/problem/2661|
 ||미로만들기|https://www.acmicpc.net/problem/2665|
 ||벽장문의 이동|https://www.acmicpc.net/problem/2666|
 ||단지번호붙이기|https://www.acmicpc.net/problem/2667|
