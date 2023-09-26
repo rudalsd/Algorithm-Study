@@ -143,6 +143,7 @@
 ||카드2|https://www.acmicpc.net/problem/2164|
 ||로봇 시뮬레이션|https://www.acmicpc.net/problem/2174|
 ||미로 탐색|https://www.acmicpc.net/problem/2178|
+||문자판|https://www.acmicpc.net/problem/2186|
 ||문자열 복사|https://www.acmicpc.net/problem/2195|
 ||벽 부수고 이동하기|https://www.acmicpc.net/problem/2206|
 ||숫자판 점프|https://www.acmicpc.net/problem/2210|
