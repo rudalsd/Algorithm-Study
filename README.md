@@ -218,6 +218,7 @@
 ||직사각형 네개의 합집합의 면적 구하기|https://www.acmicpc.net/problem/2669|
 ||잠수함식별|https://www.acmicpc.net/problem/2671|
 ||행렬 덧셈|https://www.acmicpc.net/problem/2738|
+||단어 길이 재기|https://www.acmicpc.net/problem/2743|
 ||피보나치 수 3|https://www.acmicpc.net/problem/2749|
 ||수 정렬하기 2|https://www.acmicpc.net/problem/2751|
 ||로또|https://www.acmicpc.net/problem/2758|
