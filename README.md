@@ -583,6 +583,7 @@
 ||골목 대장 호석 - 기능성|https://www.acmicpc.net/problem/20168|
 ||골목 대장 호석 - 효율성 1|https://www.acmicpc.net/problem/20182|
 ||골목 대장 호석 - 효율성 2|https://www.acmicpc.net/problem/20183|
+||파일 탐색기|https://www.acmicpc.net/problem/20210|
 ||화학 실험|https://www.acmicpc.net/problem/20311|
 ||같이 눈사람 만들래?|https://www.acmicpc.net/problem/20366|
 ||문자열 게임 2|https://www.acmicpc.net/problem/20437|
