@@ -247,6 +247,7 @@
 ||오름세|https://www.acmicpc.net/problem/3745|
 ||Double Queue|https://www.acmicpc.net/problem/3755|
 ||대한민국|https://www.acmicpc.net/problem/3770|
+||네트워크 연결|https://www.acmicpc.net/problem/3780|
 ||Brainf**k 인터프리터|https://www.acmicpc.net/problem/3954|
 ||매직 스타|https://www.acmicpc.net/problem/3967|
 ||크냐?|https://www.acmicpc.net/problem/4101|
