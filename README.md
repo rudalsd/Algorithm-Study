@@ -517,6 +517,7 @@
 ||Icy Perimeter|https://www.acmicpc.net/problem/17025|
 ||파이프 옮기기 1|https://www.acmicpc.net/problem/17070|
 ||숨바꼭질 5|https://www.acmicpc.net/problem/17071|
+||십자가 2개 놓기|https://www.acmicpc.net/problem/17085|
 ||미로 탈출하기|https://www.acmicpc.net/problem/17090|
 ||캐슬 디펜스|https://www.acmicpc.net/problem/17135|
 ||색종이 붙이기|https://www.acmicpc.net/problem/17136|
