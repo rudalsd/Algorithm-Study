@@ -572,6 +572,7 @@
 ||루머|https://www.acmicpc.net/problem/19538|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||피자 오븐|https://www.acmicpc.net/problem/19940|
+||다이어트|https://www.acmicpc.net/problem/19942|
 ||떡 돌리기|https://www.acmicpc.net/problem/20007|
 ||악덕 영주 혜유|https://www.acmicpc.net/problem/20010|
 ||사이클 게임|https://www.acmicpc.net/problem/20040|
