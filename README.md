@@ -574,6 +574,7 @@
 ||어른 상어|https://www.acmicpc.net/problem/19237|
 ||스타트 택시|https://www.acmicpc.net/problem/19238|
 ||루머|https://www.acmicpc.net/problem/19538|
+||독특한 계산기|https://www.acmicpc.net/problem/19591|
 ||최소 회의실 개수|https://www.acmicpc.net/problem/19598|
 ||피자 오븐|https://www.acmicpc.net/problem/19940|
 ||다이어트|https://www.acmicpc.net/problem/19942|
