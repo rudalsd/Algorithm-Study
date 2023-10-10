@@ -369,6 +369,7 @@
 ||Puyo Puyo|https://www.acmicpc.net/problem/11559|
 ||백양로 브레이크|https://www.acmicpc.net/problem/11562|
 ||선진이의 겨울 왕국|https://www.acmicpc.net/problem/11567|
+||팀원 모집|https://www.acmicpc.net/problem/11578|
 ||타임머신|https://www.acmicpc.net/problem/11657|
 ||구간 합 구하기 3|https://www.acmicpc.net/problem/11658|
 ||GCD(n, k) = 1|https://www.acmicpc.net/problem/11689|
