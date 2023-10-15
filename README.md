@@ -20,6 +20,7 @@
 ||게임|https://www.acmicpc.net/problem/1103|
 ||호텔|https://www.acmicpc.net/problem/1106|
 ||리모컨|https://www.acmicpc.net/problem/1107|
+||합|https://www.acmicpc.net/problem/1132|
 ||RGB거리|https://www.acmicpc.net/problem/1149|
 ||도로포장|https://www.acmicpc.net/problem/1162|
 ||트리의 지름|https://www.acmicpc.net/problem/1167|
