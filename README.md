@@ -455,6 +455,7 @@
 ||개미굴|https://www.acmicpc.net/problem/14725|
 ||벼락치기|https://www.acmicpc.net/problem/14728|
 ||타일 채우기 3|https://www.acmicpc.net/problem/14852|
+||물통 문제|https://www.acmicpc.net/problem/14881|
 ||연산자 끼워넣기|https://www.acmicpc.net/problem/14888|
 ||스타트와 링크|https://www.acmicpc.net/problem/14889|
 ||경사로|https://www.acmicpc.net/problem/14890|
