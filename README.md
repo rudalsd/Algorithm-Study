@@ -600,6 +600,7 @@
 ||화학 실험|https://www.acmicpc.net/problem/20311|
 ||같이 눈사람 만들래?|https://www.acmicpc.net/problem/20366|
 ||문자열 게임 2|https://www.acmicpc.net/problem/20437|
+||사회적 거리 두기|https://www.acmicpc.net/problem/20917|
 ||트리의 기둥과 가지|https://www.acmicpc.net/problem/20924|
 ||민서의 응급 수술|https://www.acmicpc.net/problem/20955|
 ||계보 복원가 호석|https://www.acmicpc.net/problem/21276|
