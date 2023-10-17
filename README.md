@@ -359,6 +359,7 @@
 ||끝나지 않는 파티|https://www.acmicpc.net/problem/11265|
 ||단절점|https://www.acmicpc.net/problem/11266|
 ||절댓값 힙|https://www.acmicpc.net/problem/11286|
+||Jug Hard|https://www.acmicpc.net/problem/11311|
 ||열혈강호|https://www.acmicpc.net/problem/11375|
 ||열혈강호 2|https://www.acmicpc.net/problem/11376|
 ||단절선|https://www.acmicpc.net/problem/11400|
